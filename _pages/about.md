@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-In my spare time I play hockey and dodgeball, create pottery through Toronto's Gardiner Museum in-house pottery classes, cook, and have an occasional beer with friends. 
+In my spare time I play hockey and dodgeball, read, create pottery through Toronto's Gardiner Museum in-house pottery classes, cook, and have an occasional beer with friends. 
 
 I graduated from York University with an Honours Bachelor of Arts in 2015, and Loyalist College with a Paramedic Diploma in 2018. My passion lies in creative thinking and problem solving my way through daily life. I am methodical, imaginative, self-starter who often spends time wondering about questions like: 
 * Does warm weather correlate to higher outbreak numbers of COVID-19? 
