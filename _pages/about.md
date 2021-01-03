@@ -18,16 +18,12 @@ I graduated from York University with an Honours Bachelor of Arts in 2015, and L
 
 This passion lead me to my current career tragectory of landing a data analyst role so I can apply my innate curiosity with data driven results to a wide variety of topics. 
 
-## collapsible markdown?
-
-<details><summary>CLICK ME</summary>
-<p>
-
-#### yes, even hidden code blocks!
-
+<details>
+  <summary>CV</summary>
+  
 ```python
-print("hello world!")
+s = "Python syntax highlighting"
+print(s)
 ```
 
-</p>
 </details>
