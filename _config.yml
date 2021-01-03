@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Erin Cameron"
 title_separator          : "-"
 name                     : &name "Erin Cameron"
-description              : &description "personal description"
+description              : &description "BA Sociology, Paramedic Diploma"
 url                      : https://erincameron11.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Erin Cameron"
   avatar           : "headshot.png"
-  bio              : # "Your biography for the left-hand sidebar"
+  bio              : "B.A. Sociology"
   location         : "Toronto, ON"
   employer         :
   pubmed           : 
@@ -154,7 +154,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
 # Conversion
-markdown: CommonMarkGhPages
+markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
@@ -162,7 +162,7 @@ incremental: false
 
 
 # Markdown Processing
-CommonMarkGhPages:
+kramdown:
   input: GFM
   hard_wrap: false
   auto_ids: true

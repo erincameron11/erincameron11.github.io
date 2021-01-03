@@ -17,6 +17,7 @@ Education
 * Certificate in Full Stack Web Development, York University, 2020
 * Certificate in User Experience (UX) Design and Web Development, OCAD University, 2020
 
+---
 Work experience
 ======
 * 2017-2020: Emergency Medical Dispatcher
@@ -28,7 +29,8 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
+
+---
 Skills
 ======
 * Skill 1
