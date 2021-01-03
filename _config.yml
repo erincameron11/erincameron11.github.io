@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Erin Cameron"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Erin Cameron"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Erin Cameron"
-  avatar           : "DP.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "DP.JPG"
+  bio              : # "Your biography for the left-hand sidebar"
   location         : "Toronto, ON"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            :  "erincameron11@hotmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         :  "www.linkedin.com/in/erin-cameron-8b4a81198"
   orcid            : 
   pinterest        :
   soundcloud       :
