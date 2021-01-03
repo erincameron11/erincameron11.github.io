@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+---
 Education
 ======
 * B.A. in Sociology, York University, 2015
