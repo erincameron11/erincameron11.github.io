@@ -21,9 +21,8 @@ This passion lead me to my current career tragectory of landing a data analyst r
 <details>
   <summary>CV</summary>
   
-```python
-s = "Python syntax highlighting"
-print s
-```
+> s = "Python syntax highlighting"
+> print s
+
 
 </details>
