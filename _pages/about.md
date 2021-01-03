@@ -21,9 +21,10 @@ This passion lead me to my current career tragectory of landing a data analyst r
 <details>
   <summary>CV</summary>
   
-  ## Education
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
+  ```python
+  import pandas as pd
+  pd.head()
+  pd.show()
+  ```
+
 </details>
