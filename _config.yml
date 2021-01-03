@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Erin Cameron"
-  avatar           : "/images/DP.JPG"
+  avatar           : "DP.JPG"
   bio              : # "Your biography for the left-hand sidebar"
   location         : "Toronto, ON"
   employer         :
