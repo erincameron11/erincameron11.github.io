@@ -20,22 +20,28 @@ Education
 ---
 Work experience
 ======
-* 2017-2020: Emergency Medical Dispatcher
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+> * Spring 2020: Q&A Technician
+>   * Business Tech Ninjas
+>   * Duties included:
+>     * Data entry
+>     * Technical support and troubleshooting
+
+> 2017-2020: Emergency Medical Dispatcher
+>  * Toronto Paramedic Services
+>  * Duties included: 
+>    * Answering emergent and non-emergent 911 calls
 
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+    * Data entry
 
 ---
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Customer Service
+* Web Development
+  * HTML5
+  * CSS3
+  * JavaScript
+* Web Design
