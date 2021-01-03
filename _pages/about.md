@@ -18,12 +18,14 @@ I graduated from York University with an Honours Bachelor of Arts in 2015, and L
 
 This passion lead me to my current career tragectory of landing a data analyst role so I can apply my innate curiosity with data driven results to a wide variety of topics. 
 
-<details>
-  <summary>CV</summary>
-  
-```python
-s = "Python syntax highlighting"
-print(s)
-```
+{::options parse_block_html="true" /}
 
+<details><summary markdown="span">Let's see some code!</summary>
+```python
+print('Hello World!')
+```
+Of course, it has to be Hello World, right?
 </details>
+<br/>
+
+{::options parse_block_html="false" /}
