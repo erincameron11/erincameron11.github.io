@@ -21,10 +21,9 @@ This passion lead me to my current career tragectory of landing a data analyst r
 <details>
   <summary>CV</summary>
   
-  ```python
-  import pandas as pd
-  pd.head()
-  pd.show()
-  ```
+```python
+s = "Python syntax highlighting"
+print s
+```
 
 </details>
