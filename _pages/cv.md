@@ -11,13 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Sociology, York University, 2015
+* Diploma of Paramedicine, Loyalist College, 2018
+* Certificate in Full Stack Web Development, York University, 2020
+* Certificate in User Experience (UX) Design and Web Development, OCAD University, 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* 2017-2020: Emergency Medical Dispatcher
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
@@ -35,25 +36,3 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
