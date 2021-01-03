@@ -20,9 +20,10 @@ This passion lead me to my current career tragectory of landing a data analyst r
 
 {::options parse_block_html="true" /}
 
-<details><summary markdown="span">Let's see some code!</summary>
+<details><summary markdown="span">Collapsible code!</summary>
 ```python
 print('Hello World!')
+print('Lorem ipsum')
 ```
 Of course, it has to be Hello World, right?
 </details>
