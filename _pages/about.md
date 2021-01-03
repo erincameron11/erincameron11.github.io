@@ -15,5 +15,5 @@ I graduated from York University with an Honours Bachelor of Arts in 2015, and L
 * Does budget size correlate to call volume in Toronto Emergency Services? 
 * What countries win the most Olympic medals, comparing Winter to Summer games, and what are some potential reasons for this? 
 * Can we accurately determine when El Niño weather patterns occurred in North America by examining the temperature trends in historical weather data? 
-<!-- end of list -->
+</a>
 This passion lead me to my current career tragectory of landing a data analyst role so I can apply my innate curiosity with data driven results to a wide variety of topics. 
