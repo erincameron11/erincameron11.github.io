@@ -4,7 +4,6 @@
 
 .archive {
   margin-bottom: 2em;
-  color: #494e52;
 
   @include breakpoint($medium) {
     @include span(12 of 12);
@@ -37,6 +36,7 @@
 
   + .list__item .archive__item-title {
     margin-top: 0.5em;
+    color: #494e52;
   }
 }
 
