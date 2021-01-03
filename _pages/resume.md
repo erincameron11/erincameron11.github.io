@@ -22,24 +22,31 @@ Education
 
 Work experience
 ======
-Spring 2020: Q&A Technician
+* 2020-Present: Q&A Technician
   * Business Tech Ninjas
-  * Duties included:
-    * Data entry
-    * Technical support and troubleshooting
+  * Duties included: Technical support and troubleshooting, customer service, data entry
 
-2017-2020: Emergency Medical Dispatcher
+* 2017-2020: Emergency Medical Dispatcher
   * Toronto Paramedic Services
-  * Duties included: 
-    * Answering emergent and non-emergent 911 calls
+  * Duties included: Answering emergent and non-emergent 911 calls
 
 ---
 
 Skills
 ======
-* Customer Service
 * Web Development
   * HTML5
   * CSS3
   * JavaScript
+  * Node.js
+  * Express
+  * RESTful APIs
+  * MySQL
+  * Docker
+  * GitHub
+  * GitLab CI/CD
 * Web Design
+* Data Science
+  * Python
+  * pandas
+  * pyplot
