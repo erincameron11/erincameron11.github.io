@@ -9,9 +9,13 @@ tags:
 ---
 
 E.Cameron
+
 January, 2021
+
 ---
-An examination of Toronto Paramedic Services' dispatch and incident data found on The City of Toronto's Open Dataset site: https://open.toronto.ca/dataset/paramedic-services-incident-data/
+
+An examination of Toronto Paramedic Services' dispatch and incident data found on [The City of Toronto's Open Dataset site](https://open.toronto.ca/dataset/paramedic-services-incident-data/ "Toronto Open Data")
+
 ---
 
 
