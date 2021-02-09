@@ -1,7 +1,7 @@
 ---
 title: 'Toronto Ambulance, where do you need us?'
 date: 2021-01-10
-permalink: /posts/2021/01/tps-dispatch/
+permalink: /posts/2021/01/tps-dispatch-times/
 tags:
   - paramedic
   - healthcare
