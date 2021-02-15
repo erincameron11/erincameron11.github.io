@@ -22,6 +22,7 @@ An examination of Toronto Paramedic Services' dispatch and incident data found o
 {::options parse_block_html="true" /}
 
 <details><summary markdown="span">1.0 Loading and cleaning data</summary>
+
 ```python
 # !{sys.executable} -m pip install requests
 # !{sys.executable} -m pip install pandas
@@ -32,13 +33,10 @@ import sys
 import pandas as pd
 import requests
 import matplotlib.pyplot as plt
-```
 
-```python
 dispatches = pd.read_excel(r'/Users/erincameron/Desktop/datacamp/github/datacamp/datasets/tps_incident_data_2010-2019.xlsx')
 dispatches.head()
 ```
-
 </details>
 <br/>
 
