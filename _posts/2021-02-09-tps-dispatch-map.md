@@ -251,15 +251,22 @@ m
 {% endhighlight %}
 </details>
 
+
+<!-- ![Test](./images/tps3.png) -->
+
+
+
+
 <br>
 <details><summary markdown="span">Resources</summary>
 
-### Helpful Info:
-
-* Data from <a href="https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/hlt-fst/pd-pl/Table.cfm?Lang=Eng&T=1201&SR=1&S=22&O=A&RPP=9999&PR=0">Stats Canada</a>
-* <a href="https://python-visualization.github.io/folium/quickstart.html#Styling-function">How to Folium</a>
-* <a href="https://blizzwiz.github.io/2020/06/25/Draw-folium-map-of-Toronto/">How-to: Folium Map</a>
-* <a href="https://blomadam.github.io/tutorials/2017/04/09/ipynb-to-Jekyll-Post-tools.html">How to convert Jupyter Notebooks to markdown</a>
+Helpful Info:
+<ul>
+  <li> Data from <a href="https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/hlt-fst/pd-pl/Table.cfm?Lang=Eng&T=1201&SR=1&S=22&O=A&RPP=9999&PR=0">Stats Canada</a></li>
+  <li><a href="https://python-visualization.github.io/folium/quickstart.html#Styling-function">How to Folium</a></li>
+  <li><a href="https://blizzwiz.github.io/2020/06/25/Draw-folium-map-of-Toronto/">How-to: Folium Map</a></li>
+  <li><a href="https://blomadam.github.io/tutorials/2017/04/09/ipynb-to-Jekyll-Post-tools.html">How to convert Jupyter Notebooks to markdown</a></li>
+</ul>
 
 </details>
 
