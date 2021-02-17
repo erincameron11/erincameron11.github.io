@@ -1,5 +1,5 @@
 ---
-title: 'Toronto Ambulance, where do you need us?'
+title: 'Paramedic'
 date: 2021-01-10
 permalink: /posts/2021/01/tps-dispatch-times/
 tags:
