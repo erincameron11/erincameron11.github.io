@@ -166,7 +166,9 @@ print(call_counts.sort_values("call_per_capita").tail())
 </details>
 
 
-<details><summary markdown="span">3.0 Visualize the data</summary>
+## Visualizing the Data
+
+<details><summary markdown="span">1.0 Number of Dispatches per Postal Code</summary>
 {% highlight python %}
 url = (
     "https://raw.githubusercontent.com/BlizzWiz/IBM_Capstone_Project/master"
@@ -184,7 +186,7 @@ folium.Choropleth(
     fill_color="BuPu",
     fill_opacity=0.7,
     line_opacity=0.5,
-    legend_name="Number of Calls per Capita",
+    legend_name="Number of Dispatches per Postal Code",
 ).add_to(m)
 
 folium.LayerControl().add_to(m)
@@ -193,9 +195,11 @@ m
 {% endhighlight %}
 </details>
 
+![TPS Visualization 1](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/tps1.png)
 
 
-<details><summary markdown="span">4.0 Visualize the data</summary>
+
+<details><summary markdown="span">2.0 Toronto Population, 2016</summary>
 {% highlight python %}
 url = (
     "https://raw.githubusercontent.com/BlizzWiz/IBM_Capstone_Project/master"
@@ -222,9 +226,11 @@ m
 {% endhighlight %}
 </details>
 
+![TPS Visualization 1](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/tps2.png)
 
 
-<details><summary markdown="span">5.0 Visualize the data</summary>
+
+<details><summary markdown="span">3.0 Number of Dispatches per Capita</summary>
 {% highlight python %}
 url = (
     "https://raw.githubusercontent.com/BlizzWiz/IBM_Capstone_Project/master"
@@ -251,10 +257,7 @@ m
 {% endhighlight %}
 </details>
 
-
-<!-- ![Test](./images/tps3.png) -->
-
-
+![TPS Visualization 1](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/tps3.png)
 
 
 <br>
