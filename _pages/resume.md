@@ -13,17 +13,21 @@ redirect_from:
 
 Education
 ======
-> Honours B.COSC of Computer Science, Algoma University, December 2023
+* Honours B.COSC of Computer Science, Algoma University, December 2023
   * Courses: Data Structures, Assembly Language Database Programming, Computer Organization,Software Engineering, Techniques of Systems Analysis, OOP, AI, Operating Systems, Analysis of Algorithms, Distributed Systems, Computer Networks, HCI, Data Management 
   * GPA: 4.0  
-> Certificate of Full Stack Web Development, York University, 2020
+
+* Certificate of Full Stack Web Development, York University, 2020
   * Courses: Server Side Programming and Tools, Database Design and Principles, DevOps and Deployment, Web UI Concepts and Frameworks
   * GPA: 3.88</br></br>
-> Certificate of User Experience (UX) Design and Development, OCAD University, 2020
+
+* Certificate of User Experience (UX) Design and Development, OCAD University, 2020
   * Courses: UI/UX Design, Web Analytics, PHP Dynamic Web Design</br></br>
-> Diploma of Paramedicine, Loyalist College, 2018
+
+* Diploma of Paramedicine, Loyalist College, 2018
   * Course sample: Anatomy & Physiology, Crisis Intervention, Emergency Patient Care, Medical Ethical Issues, Pathophysiology, Pharmacology</br></br>
-> Honours B.A. of Sociology, York University, 2015
+
+* Honours B.A. of Sociology, York University, 2015
   * Course sample: Sociological Theory, Biology, Sociological Research Methods, Globalization, Criminalization & Regulation</br></br>
 
 ---
