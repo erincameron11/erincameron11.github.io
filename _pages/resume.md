@@ -39,42 +39,42 @@ Honours B.A. of Sociology, York University, 2015
 
 Work Experience
 ======
-2021: Emergency Health Services Investigator, Contract  
+> 2021: Emergency Health Services Investigator, Contract  
 Ministry of Health - EHRAB
-* Handled a caseload of multiple active investigations into emergency health services operations incidents
-* Utilized investigative techniques to interview emergency medical services personnel and various other witnesses, including health care professionals, civilians, police officers and firefighters
-* Analyzed data and investigative documents, and communicated findings in extensive investigation reports  
+>> Handled a caseload of multiple active investigations into emergency health services operations incidents
+>> Utilized investigative techniques to interview emergency medical services personnel and various other witnesses, including health care professionals, civilians, police officers and firefighters
+>> Analyzed data and investigative documents, and communicated findings in extensive investigation reports  
+<br>
 
+> 2020-2021: Q&A Technician  
+> Business Tech Ninjas
+>> Handled troubleshooting and problem solving of all tech-related issues that arose, managed multiple projects with tight timelines, provided customer support, designed website components, wrote website copy, and tested new products before site launches  
+<br>
 
-2020-2021: Q&A Technician  
-Business Tech Ninjas
-* Handled troubleshooting and problem solving of all tech-related issues that arose, managed multiple projects with tight timelines, provided customer support, designed website components, wrote website copy, and tested new products before site launches  
+> Winter 2020: Junior Frontend Web Developer, Internship  
+> unTribe
+>> Executed and managed the creation of a full-stack GRANDstack (GRAPHql, React, Apollo, Neo4j) application in collaboration with a team of developers  
+<br>
 
-
-Winter 2020: Junior Frontend Web Developer, Internship  
-unTribe
-* Executed and managed the creation of a full-stack GRANDstack (GRAPHql, React, Apollo, Neo4j) application in collaboration with a team of developers  
-
-
-2018-2020: Communications Training Officer  
-Toronto Paramedic Servies
-* Trained and evaluated new recruits, and return-to-work personnel, while adhering to standardized protocols and SOPs  
-
+> 2018-2020: Communications Training Officer  
+> Toronto Paramedic Servies
+>> Trained and evaluated new recruits, and return-to-work personnel, while adhering to standardized protocols and SOPs  
+<br>
    
-2017-2018: Emergency Medical Dispatcher  
-Toronto Paramedic Services
-* Answered 911 calls and coordinated all emergent and non-emergent ambulance requests, conversed with allied agencies and provided customer service to those in need  
+> 2017-2018: Emergency Medical Dispatcher  
+> Toronto Paramedic Services
+>> Answered 911 calls and coordinated all emergent and non-emergent ambulance requests, conversed with allied agencies and provided customer service to those in need  
+<br>
 
+> 2016-2018: Customer Service Representative  
+> Center for Addiction and Mental Health (CAMH)
+>> Answered telephones in a switchboard call-centre environment and provided support to staff, dispatched security personnel and contacted emergency services as needed, operateed radio systems, multi-screen computer systems and paging systems, liaised with hospital staff such as doctors and nurses  
+<br>
 
-2016-2018: Customer Service Representative  
-Center for Addiction and Mental Health (CAMH)
-* Answered telephones in a switchboard call-centre environment and provided support to staff, dispatched security personnel and contacted emergency services as needed, operateed radio systems, multi-screen computer systems and paging systems, liaised with hospital staff such as doctors and nurses  
-
-
-2016-2017: Patient Transfer Attendant  
-RNR Patient Transfer
-* Handled confidential information such as medical health records, provided first aid medical care to patients as needed, liaised with dispatch, hospital staff and patients  
-
+> 2016-2017: Patient Transfer Attendant  
+> RNR Patient Transfer
+>> Handled confidential information such as medical health records, provided first aid medical care to patients as needed, liaised with dispatch, hospital staff and patients    
+<br>
 ---
 
 Skills
