@@ -13,47 +13,66 @@ redirect_from:
 
 Education
 ======
-* B.A. of Sociology, York University, 2015
-* Diploma of Paramedicine, Loyalist College, 2018
-* Certificate of Full Stack Web Development, York University, 2020
-* Certificate of User Experience (UX) Design and Development, OCAD University, 2020
+> Honours B.COSC of Computer Science, Algoma University, December 2023
+  * Courses: Data Structures, Assembly Language Database Programming, Computer Organization,Software Engineering, Techniques of Systems Analysis, OOP, AI, Operating Systems, Analysis of Algorithms, Distributed Systems, Computer Networks, HCI, Data Management 
+  * GPA: 4.0</br></br>
+> Certificate of Full Stack Web Development, York University, 2020
+  * Courses: Server Side Programming and Tools, Database Design and Principles, DevOps and Deployment, Web UI Concepts and Frameworks
+  * GPA: 3.88</br></br>
+> Certificate of User Experience (UX) Design and Development, OCAD University, 2020
+  * Courses: UI/UX Design, Web Analytics, PHP Dynamic Web Design</br></br>
+> Diploma of Paramedicine, Loyalist College, 2018
+  * Course sample: Anatomy & Physiology, Crisis Intervention, Emergency Patient Care, Medical Ethical Issues, Pathophysiology, Pharmacology</br></br>
+> Honours B.A. of Sociology, York University, 2015
+  * Course sample: Sociological Theory, Biology, Sociological Research Methods, Globalization, Criminalization & Regulation</br></br>
 
 ---
 
 Work Experience
 ======
-* 2020-Present: Q&A Technician
-  * Business Tech Ninjas
-  * Duties include: Troubleshoot and problem solve all tech-related issues that arise, manage multiple projects with tight timelines, customer support, design website components, write website copy, and test new products before site launches
+> 2021: Emergency Health Services Investigator, Contract  
+> Ministry of Health - EHRAB
+  * Handled a caseload of multiple active investigations into emergency health services operations incidents
+  * Utilized investigative techniques to interview emergency medical services personnel and various other witnesses, including health care professionals, civilians, police officers and firefighters
+  * Analyzed data and investigative documents, and communicated findings in extensive investigation reports</br></br>
 
-* 2017-2020: Emergency Medical Dispatcher, Communications Training Officer
-  * Toronto Paramedic Services
-  * Duties included: Answer 911 calls and coordinate all emergent and non-emergent ambulance requests, converse with allied agencies and provide customer service to those in need, evaluate and train new recruits as a Communications Training Officer, adhere to standardized protocols and SOPs
+> 2020-2021: Q&A Technician  
+> Business Tech Ninjas
+  * Handled troubleshooting and problem solving of all tech-related issues that arose, managed multiple projects with tight timelines, provided customer support, designed website components, wrote website copy, and tested new products before site launches</br></br>
 
-* 2016-2018: Customer Service Representative
-  * Center for Addiction and Mental Health (CAMH)
-  * Duties included: Answer telephones in a switchboard call-centre environment and provide support to staff, dispatch security personnel and contact emergency services as needed, operate radio systems, multi-screen computer systems and paging systems, liaise with hospital staff such as doctors and nurses
+> Winter 2020: Junior Frontend Web Developer, Internship  
+> unTribe
+  * Executed and managed the creation of a full-stack GRANDstack (GRAPHql, React, Apollo, Neo4j) application in collaboration with a team of developers</br></br>
 
-* 2016-2017: Patient Transfer Attendant
-  * RNR Patient Transfer
-  * Duties included: Handle confidential information such as medical health records, provide first aid medical care to patients as needed, liaise with dispatch, hospital staff and patients
+> 2018-2020: Communications Training Officer  
+> Toronto Paramedic Servies
+  * Trained and evaluated new recruits, and return-to-work personnel, while adhering to standardized protocols and SOPs</br></br>
+   
+> 2017-2018: Emergency Medical Dispatcher  
+> Toronto Paramedic Services
+  * Answered 911 calls and coordinated all emergent and non-emergent ambulance requests, conversed with allied agencies and provided customer service to those in need</br></br>
 
----
+> 2016-2018: Customer Service Representative  
+> Center for Addiction and Mental Health (CAMH)
+  * Answered telephones in a switchboard call-centre environment and provided support to staff, dispatched security personnel and contacted emergency services as needed, operateed radio systems, multi-screen computer systems and paging systems, liaised with hospital staff such as doctors and nurses</br></br>
 
-Internship Experience
-======
-* Winter 2020: Frontend Web Developer
-  * unTribe Inc.
-  * Worked with a small team of interns over the course of 2 months, on a full stack GRANDstack (GRAPHql, React, Apollo, Neo4j) application.
+> 2016-2017: Patient Transfer Attendant  
+> RNR Patient Transfer
+  * Handled confidential information such as medical health records, provided first aid medical care to patients as needed, liaised with dispatch, hospital staff and patients</br></br>
 
 ---
 
 Skills
 ======
 * Web Development
+  * Java
+  * C++
+  * Python
+  * SQL
   * HTML5
   * CSS3
   * JavaScript
+  * UI/UX Design
   * Bootstrap
   * Node.js
   * Express
@@ -70,7 +89,10 @@ Skills
   * Python
   * pandas
   * pyplot
-* Problem Solving
-* Verbal and Written Communication
+* Project Management tools
+* Time Management
+* Adaptive Learner
+* Creative Problem Solving
+* Effective Verbal and Written Communication
 * G-Suite applications
 * Microsoft Office
