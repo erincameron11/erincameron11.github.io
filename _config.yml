@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Erin Cameron"
 title_separator          : "-"
 name                     : &name "Erin Cameron"
-description              : &description "BA Sociology, Paramedic Diploma"
+description              : &description "BCOSC Computer Science, BA Sociology, Paramedic Diploma"
 url                      : https://erincameron11.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Erin Cameron"
   avatar           : "headshot.png"
-  bio              : "B.A. Sociology, Paramedic Diploma"
+  bio              : "BCOSC Computer Science" <br> "B.A. Sociology" <br> "Paramedic Diploma"
   location         : "Toronto, ON"
   employer         :
   pubmed           : 
