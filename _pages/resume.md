@@ -13,6 +13,7 @@ redirect_from:
 
 Education
 ======
+
 > ### Honours B.COSC of Computer Science, Algoma University, December 2023
 > * Courses: Data Structures, Assembly Language Database Programming, Computer Organization,Software Engineering, Techniques of Systems Analysis, OOP, AI, Operating Systems, Analysis of Algorithms, Distributed Systems, Computer Networks, HCI, Data Management 
 > * GPA: 4.0  
@@ -39,6 +40,7 @@ Education
 
 Work Experience
 ======
+
 > ### 2021: Emergency Health Services Investigator (Contract), Ministry of Health - EHRAB
 > * Handled a caseload of multiple active investigations into emergency health services operations incidents
 > * Utilized investigative techniques to interview emergency medical services personnel and various other witnesses, including health care professionals, civilians, police officers and firefighters
@@ -68,10 +70,12 @@ Work Experience
 > ### 2016-2017: Patient Transfer Attendant, RNR Patient Transfer
 > * Handled confidential information such as medical health records, provided first aid medical care to patients as needed, liaised with dispatch, hospital staff and patients    
 <br>
+
 ---
 
 Skills
 ======
+
 * Web Development
   * Java
   * C++
