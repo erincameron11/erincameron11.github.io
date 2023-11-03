@@ -3,7 +3,7 @@ main:
   - title: "Resume"
     url: /resume/
   
-  - title: "Blog"
+  - title: "Projects"
     url: /year-archive/
 
   # - title: "Portfolio"

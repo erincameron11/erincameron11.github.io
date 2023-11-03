@@ -59,8 +59,12 @@ Work Experience
 > * Trained and evaluated new recruits, and return-to-work personnel, while adhering to standardized protocols and SOPs  
 <br>
    
-> ### 2017-2018: Emergency Medical Dispatcher, Toronto Paramedic Services
-> * Answered 911 calls and coordinated all emergent and non-emergent ambulance requests, conversed with allied agencies and provided customer service to those in need  
+> ### 2018: Emergency Medical Dispatcher, Toronto Paramedic Services
+> * Coordinated all emergent and non-emergent ambulance requests and managed ambulance coverage of each quadrant of the city  
+<br>
+
+> ### 2017-2018: Emergency Call Taker, Toronto Paramedic Services
+> * Answered 911 calls while providing customer service to those in need, determined the nature and urgency of requests for service and prioritized calls relative to the Advanced Medical Priority Dispatch System algorithm, and conversed with allied agencies
 <br>
 
 > ### 2016-2018: Customer Service Representative, Center for Addiction and Mental Health (CAMH)
