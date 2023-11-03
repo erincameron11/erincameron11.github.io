@@ -46,20 +46,23 @@ The application uses the following technologies:
 Once the tests have been run in the terminal, the output will look something like below:
 ![Unit Test Results](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/unit-test.png)
 
-#### Problem Breakdown
+### Problem Breakdown
 To simplify the problem, I first deconstructed the function into pseudocode/plain english to understand the logic:
 `if test is a multiple of 3, return Fizz`   
 `if test is not a multiple of 3, but is a multiple of 5, return Buzz`   
 `if test is not a multiple of 3 or 5, return empty string`   
 
-#### Unit Tests
+### Unit Tests
 I wrote the following unit tests to test the fizzBuzz function:
 
-// Testing an input of 3, expected result 'Fizz'   
-`test('test = 3; output should be Fizz', () => {`   
-  `const result = fizzBuzz(3);`   
-  `expect(result).toBe("Fizz");`   
-`});`   
+Testing an input of 3, expected result 'Fizz':
+```
+test('test = 3; output should be Fizz', () => {
+  const result = fizzBuzz(3);
+  expect(result).toBe("Fizz");
+});
+```
+
 
 // Testing an input of 5, expected result 'Buzz'   
 `test('test = 5; output should be Buzz', () => {`   
