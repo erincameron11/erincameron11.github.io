@@ -1,5 +1,5 @@
 ---
-title: 'Unit Testing'
+title: 'JavaScript Unit Testing'
 date: 2021-01-24
 permalink: /posts/2021/01/unit-testing/
 tags:
@@ -8,7 +8,7 @@ tags:
   - npm
 ---
 
-Unit tests that test a simple JavaScript function.
+Unit testing a simple JavaScript function.
 
 ## Objective:
 The objective of the project was to write unit tests for the below JavaScript function: 
