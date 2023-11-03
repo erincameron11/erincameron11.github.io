@@ -45,8 +45,8 @@ After downloading the dataset, I loaded data for each year (2018 - 2022), random
 I explored features in the dataset and performed various data cleaning tasks, such as handling missing variables. First, I investigated the nature of the “Cancelled” column, which contains the variable I am interested in predicting – whether or not a flight will be cancelled. In the subsampled data of 400,000 flights –11,127 (2.8%) flights were cancelled and 388,873 (97.2%) were not cancelled. Next, I checked to see if there are any missing values in the Cancelled columns. There were no missing “NaN” values in the column, indicating that I do not need to remove any additional rows from the data.
 
 Breakdown of randomly subsampled dataset and number of cancelled flights across years:
-| Year | Original Dataset Size                            | Post-Subsetting Dataset Size                  | Flight Cancellation Breakdown After Subsampling         |
-|------|--------------------------------------------------|-----------------------------------------------|---------------------------------------------------------|
+| Year | Original Dataset Size | Post-Subsetting Dataset Size | Flight Cancellation Breakdown After Subsampling
+|------|-----------------------------|-----------------------------|-----------------------------|
 | 2018 | 5,689,512 flights (rows);  61 features (columns) | 100,000 flights (rows); 61 features (columns) | Cancelled = 1,540 (1.5%) Not Cancelled = 98,460 (98.5%) |
 | 2019 | 8,091,684 flights (rows);  61 features (columns) | 100,000 flights (rows); 61 features (columns) | Cancelled = 1,869 (1.9%) Not Cancelled = 98,131 (98.1%) |
 | 2020 | 5,022,397 flights (rows);  61 features (columns) | 100,000 flights (rows); 61 features (columns) | Cancelled = 5,916 (5.9%) Not Cancelled = 94,084 (94.1%) |
