@@ -13,30 +13,16 @@ redirect_from:
 
 Education
 ======
-<style>
-.sec:hover {
-  background-color: black;
-  color: white;
-}
-</style>
-
-<div class = "sec">
 
 > ### Honours B.COSC of Computer Science, Algoma University, December 2023
 > * Courses: Data Structures, Assembly Language Database Programming, Computer Organization,Software Engineering, Techniques of Systems Analysis, OOP, AI, Operating Systems, Analysis of Algorithms, Distributed Systems, Computer Networks, HCI, Data Management 
 > * GPA: 4.0  
-
 <br>
-</div>
-
-<section class = "sec">
 
 > ### Certificate of Full Stack Web Development, York University, 2020
 > * Courses: Server Side Programming and Tools, Database Design and Principles, DevOps and Deployment, Web UI Concepts and Frameworks
 > * GPA: 3.88  
 <br>
-
-</section>
 
 > ### Certificate of User Experience (UX) Design and Development, OCAD University, 2020
 > * Courses: UI/UX Design, Web Analytics, PHP Dynamic Web Design  
