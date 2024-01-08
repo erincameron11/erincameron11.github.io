@@ -23,7 +23,7 @@ Creating a chat application for the communication of information across distribu
 * Server – receives message displayed on screen, types response message, and sends the response through output channel.  
 * Client – receives the response and is displayed on the screen.  
 
-![Client-Server Connection Details](../images/client-server-fig1.png)
+![Client-Server Connection Details](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/client-server-fig1.png)
 
 
 ## Application Features
@@ -52,6 +52,9 @@ Open a second Terminal window for the Client, and follow the instructions below:
 
 ### Chat Operation
 After Chat Initialization, all chat operations take place inside the two Terminal windows. Starting with the Client, users can now message each other alternating on each Terminal window between Client and Server.
+
+![Client Chat](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/client-server-fig5.png)
+![Server Chat](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/client-server-fig6.png)
 
 ### Chat Termination
 #### Server Disconnection:
