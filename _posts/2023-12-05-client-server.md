@@ -23,7 +23,7 @@ Creating a chat application for the communication of information across distribu
 * Server – receives message displayed on screen, types response message, and sends the response through output channel.  
 * Client – receives the response and is displayed on the screen.  
 
-<img src="../images/client-server-fig1.png" alt="Client-Server Connection Details" width="445"/>
+![Client-Server Connection Details](../images/client-server-fig1.png)
 
 
 ## Application Features
@@ -36,7 +36,7 @@ First we must compile and run the program in two Terminal windows. Open a Termin
 4. Type `java ChatServer.java` and press Enter. Your server is now running and waiting for clients. The message “Connection pending…” will display on the screen.
 *Important Note: the server must be running first before attempting to connect the client to the server.*
 
-<img src="../images/client-server-fig2.png" alt="Server Connection" width="288">
+![Server Connection](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/client-server-fig2.png)
 
 #### Client Connection:
 Open a second Terminal window for the Client, and follow the instructions below:
@@ -46,8 +46,8 @@ Open a second Terminal window for the Client, and follow the instructions below:
 4. The client is now prompted to enter an IP address. If running both the Server and Client locally, use `0.0.0.0` or `127.0.0.1`. If running on two separate machines, use the IP address for the machine that the Server is running on. The messages `Connection pending on IP: <ip_address>` and `Connection established on IP address <ip_address>` will display on the screen if the connection is successful. The connection is now formed between Client and Server.
 5. The Client must then enter a Nickname they would like to be called for the duration of the chat. The Client is now connected to the chat with the Server.
 
-<img src="../images/client-server-fig3.png" alt="Client Connection" width="288">
-<img src="../images/client-server-fig4.png" alt="Client Connection" width="288">
+![Client Connection](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/client-server-fig3.png)
+![Client Nickname Setup](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/client-server-fig4.png)
 
 
 ### Chat Operation
