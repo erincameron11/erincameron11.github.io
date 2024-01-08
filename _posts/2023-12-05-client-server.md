@@ -63,6 +63,9 @@ The Server is automatically disconnected when the Client enters a specified phra
 #### Client Disconnection:
 To terminate the chat, the Client must type and enter a specified phrase into the chat to end the connection. In this application, the phrase to terminate the chat is “quit”.
 
+![Client Termination](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/client-server-fig7.png)
+![Server Termination](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/client-server-fig8.png)
+
 ## Tool and Techniques
 The entirety of the chat application is programmed in the Java programming language. In order to write, edit, and compile the application, the Eclipse Integrated Development Environment (IDE) was used.
 
