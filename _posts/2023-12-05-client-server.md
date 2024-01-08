@@ -11,7 +11,6 @@ tags:
 
 Creating a chat application for the communication of information across distributed machines. Implemented using client-server socket programming with Transmission Control Protocol (TCP).
 
----
 
 ## Introduction
 **Purpose**: communication of information across distributed machines
@@ -85,6 +84,7 @@ Some additional techniques were used within the application to help with the des
   * To clear the Terminal window prior to a chat taking place, a bash command was used to flush the Terminal window, and clear the current visible output to allow for the chat to take place in a clear window.
 
 ## Implementation Details
+The source code can be accessed at: <a href="https://github.com/erincameron11/clientserverchat">https://github.com/erincameron11/clientserverchat</a>
 * Sockets: The creation of a Server Socket is done by instantiating a ServerSocket class object with the Port specified as a parameter. The ServerSocket class uses the server’s machine IP address to create the socket on. The creation of a Client Socket is done by instantiating a Socket class object with the IP address and Port specified as parameters.
 * Input/Output: Both Client and Server code include BufferedReader, InputStreamReader, and PrintStream for input and output operations.
 * Client Message Handling: When a Client sends a message, the following actions occur. The display name of the Client is entered into the chat, and the next line of text that the Client types is read into the String variable, “message”. The message is sent to the output stream and sent to the Server. The `Server: …` server-is-responding text is displayed in the Client’s terminal window while the Server takes the time to respond to the Client’s message. When the Server has responded, the response is read into the message variable, and displayed as output in the terminal window. The loop continues indefinitely until the Client enters the predetermined phrase “quit” to terminate the chat. When the user enters the phrase “quit” into the chat, the loop executes as normal and waits for a reply from the Server. The Server replies with “Terminated”, and this is what triggers the termination of the connection.
