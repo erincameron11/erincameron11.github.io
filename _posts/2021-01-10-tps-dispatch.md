@@ -1,5 +1,5 @@
 ---
-title: 'Paramedic'
+title: 'Paramedic Incident Data'
 date: 2021-01-10
 permalink: /posts/2021/01/tps-dispatch-times/
 tags:
@@ -8,20 +8,15 @@ tags:
   - public health
 ---
 
-E.Cameron
-
-January, 2021
-
----
+# *** UNDER CONSTRUCTION ***
 
 An examination of Toronto Paramedic Services' dispatch and incident data found on [The City of Toronto's Open Dataset site](https://open.toronto.ca/dataset/paramedic-services-incident-data/ "Toronto Open Data")
 
----
 
-
+## Section 1
 {::options parse_block_html="true" /}
 
-<details><summary markdown="span">1.0 Loading and cleaning data</summary>
+<details open><summary markdown="span">1.0 Loading and cleaning data</summary>
 
 ```python
 # !{sys.executable} -m pip install requests

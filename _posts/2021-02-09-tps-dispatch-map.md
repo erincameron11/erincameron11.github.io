@@ -13,7 +13,7 @@ A data visualization of Toronto Paramedic Services dispatches from 2010, compare
 
 ## Section 1
 
-<details><summary markdown="span">1.0 Installing and importing dependencies</summary>
+<details open><summary markdown="span">1.0 Installing and importing dependencies</summary>
 {% highlight python %}
 # !{sys.executable} -m pip install requests
 # !{sys.executable} -m pip install pandas
@@ -32,7 +32,7 @@ import re
 </details>
 
 
-<details><summary markdown="span">2.0 Loading and cleaning Toronto Paramedic data</summary>
+<details open><summary markdown="span">2.0 Loading and cleaning Toronto Paramedic data</summary>
 {% highlight python %}
 # Read the dispatch dataset in with time-indexing
 dispatches = pd.read_excel(r'/Users/erincameron/Desktop/datacamp/github/datacamp/datasets/tps_incident_data_2010-2019.xlsx', parse_dates=True, index_col="Dispatch_Time")
@@ -43,7 +43,7 @@ dispatches.head()
 </details>
 
 
-<details><summary markdown="span">3.0 Subsetting data</summary>
+<details open><summary markdown="span">3.0 Subsetting data</summary>
 {% highlight python %}
 # subset for only 2010 Dispatch_Times
 dispatches_df = dispatches.loc["2010-01-01 00:01:36":"2010-12-31 23:57:27"]
@@ -82,7 +82,7 @@ print(call_counts["FSA"].isnull().sum())
 
 ## Section 2
 
-<details><summary markdown="span">1.0 Loading and cleaning Toronto Population dataset</summary>
+<details open><summary markdown="span">1.0 Loading and cleaning Toronto Population dataset</summary>
 {% highlight python %}
 population = pd.read_excel(r'/Users/erincameron/Desktop/datacamp/github/datacamp/datasets/canada_population_by_postal.xlsx')
 population.sort_index()
@@ -127,7 +127,7 @@ print(call_counts.head())
 
 
 
-<details><summary markdown="span">2.0 Subsetting data</summary>
+<details open><summary markdown="span">2.0 Subsetting data</summary>
 {% highlight python %}
 # identify the outliers
 print(call_counts.sort_values("call_per_capita").tail())
@@ -168,7 +168,7 @@ print(call_counts.sort_values("call_per_capita").tail())
 
 ## Visualizing the Data
 
-<details><summary markdown="span">1.0 Number of Dispatches per Postal Code</summary>
+<details open><summary markdown="span">1.0 Number of Dispatches per Postal Code</summary>
 {% highlight python %}
 url = (
     "https://raw.githubusercontent.com/BlizzWiz/IBM_Capstone_Project/master"
@@ -199,7 +199,7 @@ m
 
 
 
-<details><summary markdown="span">2.0 Toronto Population, 2016</summary>
+<details open><summary markdown="span">2.0 Toronto Population, 2016</summary>
 {% highlight python %}
 url = (
     "https://raw.githubusercontent.com/BlizzWiz/IBM_Capstone_Project/master"
@@ -230,7 +230,7 @@ m
 
 
 
-<details><summary markdown="span">3.0 Number of Dispatches per Capita</summary>
+<details open><summary markdown="span">3.0 Number of Dispatches per Capita</summary>
 {% highlight python %}
 url = (
     "https://raw.githubusercontent.com/BlizzWiz/IBM_Capstone_Project/master"
@@ -261,7 +261,7 @@ m
 
 
 <br>
-<details><summary markdown="span">Resources</summary>
+<details open><summary markdown="span">Resources</summary>
 
 Helpful Info:
 <ul>
