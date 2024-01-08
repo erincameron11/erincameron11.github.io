@@ -75,19 +75,28 @@ HCP:
 The source code can be found at: <a href="https://github.com/erincameron11/electronichealthrecordsUI">https://github.com/erincameron11/electronichealthrecordsUI</a>
 
 **All Users View:**
+
+---
+
 ![EHR Login](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/ehr-fig2-3.png)
 ![EHR Forgot Password](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/ehr-fig4-5.png)
 
 ---
 
 **Patient View:**
+
+---
+
 ![EHR Patient View](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/ehr-fig6-7.png)
 ![EHR Patient View](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/ehr-fig8-9.png)
 ![EHR Patient View](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/ehr-fig10.png)
 
--- 
+---
 
 **Health Care Practitioner View:**
+
+---
+
 ![EHR HCP View](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/ehr-fig11-12.png)
 ![EHR HCP View](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/ehr-fig13-14.png)
 ![EHR HCP View](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/ehr-fig15-16.png)
