@@ -1,7 +1,7 @@
 ---
-title: 'Client-Server Java Chat Application'
+title: 'Client-Server Chat Application'
 date: 2023-12-05
-permalink: /posts/2021/01/unit-testing/
+permalink: /posts/2023/12/client-server/
 tags:
   - Java
   - bash
