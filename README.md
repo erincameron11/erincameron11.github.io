@@ -37,5 +37,5 @@ Push Changes:
 
 Add a main menu item:
 1. Navigate to the project folder on Terminal
-2. Navigate to the `_pages` folder
-3. Add page and ensure you enclude the `{% include base_path %}` tag like in the `resume.md` file as an example
+2. Navigate to the `_data` folder, and open the `navigation.yml` file
+3. Add a link with a title and url

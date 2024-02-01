@@ -14,7 +14,7 @@ redirect_from:
 Education
 ======
 
-> ### Honours B.COSC of Computer Science, Algoma University, December 2023
+> ### Honours B.COSC of Computer Science, Algoma University, 2024
 > * Courses: Data Structures, Assembly Language Database Programming, Computer Organization,Software Engineering, Techniques of Systems Analysis, OOP, AI, Operating Systems, Analysis of Algorithms, Distributed Systems, Computer Networks, HCI, Data Management 
 > * GPA: 4.0  
 <br>
@@ -84,6 +84,8 @@ Skills
   * Java
   * C++
   * Python
+    * pandas
+    * pyplot
   * SQL
   * HTML5
   * CSS3
@@ -97,14 +99,8 @@ Skills
   * MySQL
   * Docker
   * GCP
-  * GitHub
-  * GitLab CI/CD
-* Web Design
-  * Adobe Creative Suite
-* Data Science
-  * Python
-  * pandas
-  * pyplot
+  * GitHub, and GitLab CI/CD
+* Adobe Creative Suite
 * Project Management tools
 * Time Management
 * Adaptive Learner
