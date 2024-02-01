@@ -28,6 +28,8 @@ This application was built with the following technology:
 ## Implementation
 The application was implemented in Visual Studio Code. Audio input was utilized to sense blow intensity.   
 
+![Balloon Microphone](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/balloon-microphone.png)   
+
 ![Balloon Start](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/balloon-start.png)   
 
 Once the intensity passes a certain threshold, the balloon begins to inflate. 
