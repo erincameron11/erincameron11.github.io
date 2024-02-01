@@ -34,3 +34,8 @@ Push Changes:
 3. Commit changes `git commit -m <message>` with a custom message
 4. Push the changes to the repo `git push`
     * Note: changes may take up to 10 minutes to reflect in [erincameron11.github.io](https://erincameron11.github.io)
+
+Add a main menu item:
+1. Navigate to the project folder on Terminal
+2. Navigate to the `_pages` folder
+3. Add page and ensure you enclude the `{% include base_path %}` tag like in the `resume.md` file as an example
