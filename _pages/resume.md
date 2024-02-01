@@ -44,6 +44,11 @@ Education
 Work Experience
 ======
 
+> ### 2024: Teaching Assistant, Algoma University
+> * Maintained, observed and evaluated each student's progress through assessments
+> * Effectively communicated and coordinated with the instructor to discuss any changes to the marking scheme, or report any suspected academic integrity issues 
+<br>
+
 > ### 2021: Emergency Health Services Investigator (Contract), Ministry of Health - EHRAB
 > * Handled a caseload of multiple active investigations into emergency health services operations incidents
 > * Utilized investigative techniques to interview emergency medical services personnel and various other witnesses, including health care professionals, civilians, police officers and firefighters
@@ -83,31 +88,35 @@ Work Experience
 Skills
 ======
 
-* Web Development
-  * Java
-  * C++
-  * Python
-    * pandas
-    * pyplot
-  * SQL
-  * HTML5
-  * CSS3
-  * JavaScript
-  * UI/UX Design
-  * Bootstrap
-  * Node.js
-  * Express
-  * React
-  * RESTful APIs
+Technical:
+* Java
+  * Eclipse IDE
+* C++
+* Python
+  * pandas
+  * pyplot
+  * Jupyter
+* SQL
   * MySQL
-  * Docker
-  * GCP
-  * GitHub, and GitLab CI/CD
+  * Microsoft SQL Server
+* HTML5
+* CSS3
+* JavaScript
+* UI/UX Design
+* Bootstrap
+* Node.js
+* Express
+* React
+* RESTful APIs
+* Docker
+* GCP
+* GitHub, and GitLab CI/CD
+
+Professional: 
 * Adobe Creative Suite
+* G-Suite and Microsoft Office applications
 * Project Management tools
 * Time Management
 * Adaptive Learner
 * Creative Problem Solving
 * Effective Verbal and Written Communication
-* G-Suite applications
-* Microsoft Office
