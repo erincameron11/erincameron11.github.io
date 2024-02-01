@@ -15,7 +15,9 @@ Creating an interactive application using front-end technologies for blowing up 
 ## Introduction
 The aim of this project is to use CSS and HTML to design a front-end UI of a balloon, and animate it using JavaScript. When a user "blows" up the balloon, the balloon inflates. But be careful, once the balloon hits its maximum size, it pops!    
 
-![Balloon Pop](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/balloon-gif.mov)
+<video width="590" height="660">
+  <source src="https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/balloon-gif.mov" type="video/mp4">
+</video>
 
 
 ## Technologies
