@@ -8,10 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-{% include base_path %}
-
----
-
 
 In my spare time you'll find me playing hockey or dodgeball, reading, creating pottery, cooking, travelling, or having an occasional beer with friends. 
 
