@@ -89,43 +89,6 @@ Work Experience
 Skills
 ======
 
-* Technical: Java (Eclipse IDE, IntelliJ), C++, Python (pandas, pyplot, Jupyter), SQL (MySQL, Microsoft SQL Server), HTML5, CSS3, JavaScript, UI/UX Design, Bootstrap, Node.js, Express, React, RESTful APIs, Docker, GCP, GitHub, and GitLab CI/CD
+* **Technical**: Java (Eclipse IDE, IntelliJ), C++, Python (pandas, pyplot, Jupyter), SQL (MySQL, Microsoft SQL Server), HTML5, CSS3, JavaScript, UI/UX Design, Bootstrap, Node.js, Express, React, RESTful APIs, Docker, GCP, GitHub, and GitLab CI/CD
 
-* Professional: Adobe Creative Suite, G-Suite and Microsoft Office applications, Project Management tools, Time Management, Adaptive Learner, Creative Problem Solving, Effective Verbal and Written Communication
-
-
-
-
-
-Technical:
-* Java
-  * Eclipse IDE
-* C++
-* Python
-  * pandas
-  * pyplot
-  * Jupyter
-* SQL
-  * MySQL
-  * Microsoft SQL Server
-* HTML5
-* CSS3
-* JavaScript
-* UI/UX Design
-* Bootstrap
-* Node.js
-* Express
-* React
-* RESTful APIs
-* Docker
-* GCP
-* GitHub, and GitLab CI/CD
-
-Professional: 
-* Adobe Creative Suite
-* G-Suite and Microsoft Office applications
-* Project Management tools
-* Time Management
-* Adaptive Learner
-* Creative Problem Solving
-* Effective Verbal and Written Communication
+* **Professional**: Adobe Creative Suite, G-Suite and Microsoft Office applications, Project Management tools, Time Management, Adaptive Learner, Creative Problem Solving, Effective Verbal and Written Communication
