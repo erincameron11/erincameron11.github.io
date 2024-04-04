@@ -56,7 +56,8 @@ Work Experience
 <br>
 
 > ### 2020-2021: Q&A Technician, Business Tech Ninjas
-> * Handled troubleshooting and problem solving of all tech-related issues that arose, managed multiple projects with tight timelines, provided customer support, designed website components, wrote website copy, and tested new products before site launches  
+> * Lead troubleshooting and problem solving of all Wordpress tech-related issues, maintained project management workflows to track and complete projects with overlapping timelines, designed website UI/UX components, and authored website copy   
+> * Conducted rigorous testing on new software features and products prior to site launches, effectively pinpointed and remedied bugs, and promptly escalated critical issues through appropriate channels  
 <br>
 
 > ### Winter 2020: Junior Frontend Web Developer (Internship), unTribe
@@ -87,6 +88,14 @@ Work Experience
 
 Skills
 ======
+
+* Technical: Java (Eclipse IDE, IntelliJ), C++, Python (pandas, pyplot, Jupyter), SQL (MySQL, Microsoft SQL Server), HTML5, CSS3, JavaScript, UI/UX Design, Bootstrap, Node.js, Express, React, RESTful APIs, Docker, GCP, GitHub, and GitLab CI/CD
+
+* Professional: Adobe Creative Suite, G-Suite and Microsoft Office applications, Project Management tools, Time Management, Adaptive Learner, Creative Problem Solving, Effective Verbal and Written Communication
+
+
+
+
 
 Technical:
 * Java
