@@ -35,13 +35,16 @@ The application was implemented in Visual Studio Code. Audio input was utilized 
 HTML and CSS were used for front-end styling of the balloon, and animation. JavaScript was used to accept and process audio input from the users microphone. This audio input was then analyzed to find the average sound intensity input, and then this data was used to create balloon animations and actions.   
 
 
-First, the application requests permission to access the machines microphone.
+First, the application requests permission to access the machines microphone.   
+
 ![Balloon Microphone](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/balloon-microphone.png)   
 
-Click Start to begin.
+Click Start to begin.   
+
 ![Balloon Start](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/balloon-start.png)   
 
 Once the intensity passes a certain threshold, the balloon begins to inflate. 
+  
 ![Small Balloon](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/balloon-small.png)   
 
 ![Medium Balloon](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/balloon-medium.png)   

@@ -23,10 +23,12 @@ Users have the ability to:
 
 When a user inputs information for one task they have the option of tracking the time for that task. The user has the options of `Start`, `Stop`, and `Reset` on the timer for full control of task tracking, and `Cancel Task` if they change their mind. Once finished, the `Complete` button logs the time in the table. At this point, a `New Task` can be created for tracking, or old tasks can be deleted.    
 
-Below is an image of an already-tracked task, and an ongoing task below it.
+Below is an image of an already-tracked task, and an ongoing task below it.   
+
 ![MinuteMinder - Running Task](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/minute-minder-task-running.png)   
 
-Below is an image of two tracked tasks, with the options to Delete the tasks.
+Below is an image of two tracked tasks, with the options to Delete the tasks.   
+
 ![MinuteMinder - Task Done](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/minute-minder-task-done.png)   
 
 
