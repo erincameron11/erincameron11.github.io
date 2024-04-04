@@ -16,7 +16,7 @@ A silly classic `will-you-be-my-valentine` application that allows a user to eas
 
 The aim of this project is to use CSS and HTML to design a front-end UI of a Valentine, and animate it using jQuery. When a user clicks the `Yes` button, the button morphs into a heart. If a user attempts to select the `No` option, the button moves quickly away from the cursor.    
 
-<video autoplay loop width="700" height="400" style="display: block;margin: 0 auto;">
+<video width="700" height="400" style="display: block;margin: 0 auto;" autoplay loop controls>
   <source src="https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/valentine.mov" type="video/mp4">
 </video>
 
