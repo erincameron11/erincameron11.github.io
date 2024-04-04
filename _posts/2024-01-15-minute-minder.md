@@ -10,7 +10,7 @@ tags:
   - node
 ---
 
-Creating an interactive application using front-end technologies for time tracking of various tasks.
+An interactive application using front-end technologies for time tracking of various tasks.
 
 ## Introduction
 The aim of this project is to use CSS and HTML to design a front-end UI of a time-tracking software, and build in functionality using JavaScript. 
@@ -23,8 +23,10 @@ Users have the ability to:
 
 When a user inputs information for one task they have the option of tracking the time for that task. The user has the options of `Start`, `Stop`, and `Reset` on the timer for full control of task tracking, and `Cancel Task` if they change their mind. Once finished, the `Complete` button logs the time in the table. At this point, a `New Task` can be created for tracking, or old tasks can be deleted.    
 
+Below is an image of an already-tracked task, and an ongoing task below it.
 ![MinuteMinder - Running Task](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/minute-minder-task-running.png)   
 
+Below is an image of two tracked tasks, with the options to Delete the tasks.
 ![MinuteMinder - Task Done](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/minute-minder-task-done.png)   
 
 
@@ -53,7 +55,7 @@ JavaScript DOM EventListener's were used to track button clicks on the applicati
 
 ## Run
 To run the application follow the steps below:
-1. Clone this repo
+1. Clone the following repo: `https://github.com/erincameron11/minuteminder`
 2. Navigate to the applications `server` folder on your computer
 3. Run the following command in the terminal: `node app`
   * Note: if you do not have npm or node installed, visit `www.npmjs.com` to download

@@ -10,7 +10,7 @@ tags:
   - node
 ---
 
-Creating an interactive application using front-end technologies for blowing up a balloon.
+An interactive application using front-end technologies for blowing up a balloon.
 
 ## Introduction
 The aim of this project is to use CSS and HTML to design a front-end UI of a balloon, and animate it using JavaScript. When a user "blows" up the balloon, the balloon inflates. But be careful, once the balloon hits its maximum size, it pops!    
@@ -32,8 +32,13 @@ This application was built with the following technology:
 ## Implementation
 The application was implemented in Visual Studio Code. Audio input was utilized to sense blow intensity.   
 
+HTML and CSS were used for front-end styling of the balloon, and animation. JavaScript was used to accept and process audio input from the users microphone. This audio input was then analyzed to find the average sound intensity input, and then this data was used to create balloon animations and actions.   
+
+
+First, the application requests permission to access the machines microphone.
 ![Balloon Microphone](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/balloon-microphone.png)   
 
+Click Start to begin.
 ![Balloon Start](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/balloon-start.png)   
 
 Once the intensity passes a certain threshold, the balloon begins to inflate. 
@@ -45,14 +50,12 @@ Once the intensity passes a certain threshold, the balloon begins to inflate.
 
 If the balloon reaches a specific randomized size, the elastic of the balloon can no longer take the stretching and pops! A sound bite of a balloon popping is played, and the Restart button displays.   
 
-![Balloon Restart](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/balloon-restart.png)   
-
-HTML and CSS were used for front-end styling of the balloon, and animation. JavaScript was used to accept and process audio input from the users microphone. This audio input was then analyzed to find the average sound intensity input, and then this data was used to create balloon animations and actions.   
+![Balloon Restart](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/balloon-restart.png)      
 
 
 ## Run
 To run the application follow the steps below:
-1. Clone this repo
+1. Clone the following repo: `https://github.com/erincameron11/balloon-pop`
 2. Navigate to the applications `server` folder on your computer
 3. Run the following command in the terminal: `node app`
   * Note: if you do not have npm or node installed, visit `www.npmjs.com` to download
