@@ -1,5 +1,5 @@
 ---
-title: 'Client-Server Chat Application'
+title: 'Client-Server Chat Application - Java'
 date: 2023-12-08
 permalink: /posts/2023/12/client-server/
 tags:

@@ -1,5 +1,5 @@
 ---
-title: 'Electronic Health Records UI Application'
+title: 'Electronic Health Records UI Application - Java'
 date: 2023-12-05
 permalink: /posts/2023/12/electronic-health-records/
 tags:

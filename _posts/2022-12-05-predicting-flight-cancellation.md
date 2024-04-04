@@ -1,5 +1,5 @@
 ---
-title: 'Predicting Flight Cancellation'
+title: 'Predicting Flight Cancellation - Python'
 date: 2022-12-05
 permalink: /posts/2022/12/predicting-flight-cancellation/
 tags:

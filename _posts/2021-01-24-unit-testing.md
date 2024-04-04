@@ -1,5 +1,5 @@
 ---
-title: 'JavaScript Unit Testing'
+title: 'Unit Testing - JavaScript'
 date: 2021-01-24
 permalink: /posts/2021/01/unit-testing/
 tags:
