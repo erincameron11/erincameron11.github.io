@@ -7,7 +7,7 @@ tags:
   - Jupyter
 ---
 
-Various Python programs created to practice coding in the Python language.
+*Ongoing project* -- Various programs created to practice coding in the Python language.
 
 ## Introduction
 Used Python to solve four categories of problems:
