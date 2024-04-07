@@ -7,7 +7,7 @@ tags:
   - Jupyter
 ---
 
-*Ongoing project* -- Various programs created to practice coding in the Python language.
+*Ongoing project* -- Last updated April 6, 2024 -- Various programs created to practice coding in the Python language.
 
 ## Introduction
 Used Python to solve four categories of problems:
@@ -58,8 +58,8 @@ These applications were built with the following technology:
 * `TreeSort.ipynb` - pending
 
 ### Searching Algorithms
-* `BinarySearch.ipynb` - pending
-* `LinearSearch.ipynb` - pending
+* `BinarySearch.ipynb` - completed April 6 - code [here](https://github.com/erincameron11/python-practice/blob/main/search_algorithms/BinarySearch.ipynb)
+* `LinearSearch.ipynb` - completed April 6 - code [here](https://github.com/erincameron11/python-practice/blob/main/search_algorithms/LinearSearch.ipynb)
 
 ### Data Structures
 * `ADT2-3Tree.ipynb` - pending
