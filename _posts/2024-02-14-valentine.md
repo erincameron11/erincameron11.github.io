@@ -29,7 +29,7 @@ This application was built with the following technology:
   
 
 ## Implementation
-The application was implemented in Visual Studio Code. Audio input was utilized to sense blow intensity.   
+The application was implemented in Visual Studio Code.  
 
 HTML and CSS were used for front-end styling of the Valentine, and animation. jQuery was used to accept cursor input from the users mouse. This input was then used to evade the cursor with the `No` button.   
 
