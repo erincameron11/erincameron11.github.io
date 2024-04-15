@@ -40,7 +40,9 @@ The aim of this project is to use the Next.js React framework and CSS to design 
 
 The application was built using two main components: `CurrencyForm.js` and `CurrencyWrapper.js`. The `CurrencyWrapper.js` imports the `CurrencyForm.js` and displays it as output. 
 
-React States were used to track the input of data into the form fields. The `CurrencyForm.js` uses handler functions to set the states of each value entered into the input fields of the form. When a user clicks `Convert`, `preventDefault()` is first called to prevent the page from reloading. The API URL is defined, using the state value of countryOne. An API fetch call is initiated to this URL, and data is retrieved from the API. Using this data, we locate the conversion rate, calculate the converted value, set the second currency value, and catch any errors that occur.
+React States were used to track the input of data into the form fields. The `CurrencyForm.js` uses handler functions to set the states of each value entered into the input fields of the form. When a user clicks `Convert`, `preventDefault()` is first called to prevent the page from reloading. The API URL is defined, using the state value of countryOne:    
+`https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/${countryOne}.json`
+An API fetch call is initiated to this URL, and data is retrieved from the API. Using this data, we locate the conversion rate, calculate the converted value, set the second currency value, and catch any errors that occur.
   
 
 
@@ -61,3 +63,7 @@ To run the application follow the steps below:
 2. Navigate to the new repo on your machine, and into the `currency-app` folder G
 3. Get the development server running by typing `npm run dev`.
 4. Open in a browser using the link [http://localhost:3000](http://localhost:3000).
+
+
+## References
+* Free Currency Exchange Rates API: [https://github.com/fawazahmed0/exchange-api](https://github.com/fawazahmed0/exchange-api)
