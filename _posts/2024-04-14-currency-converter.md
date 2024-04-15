@@ -20,6 +20,8 @@ A simplistic currency converter application that allows a user to:
 * Input a currency to convert to
 * View the currency conversion output    
 
+
+
 ![Currency Converter](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/currency-start.png)   
 
 
