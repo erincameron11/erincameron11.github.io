@@ -67,3 +67,4 @@ To run the application follow the steps below:
 
 ## References
 * Free Currency Exchange Rates API: [https://github.com/fawazahmed0/exchange-api](https://github.com/fawazahmed0/exchange-api)
+* [Font Awesome Icons](https://fontawesome.com/icons)
