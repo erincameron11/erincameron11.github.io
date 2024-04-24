@@ -8,7 +8,7 @@ tags:
 
 ---
 
-A Java program used to analyze the validity of lexical syntax of input programs for a hypothetical imperative programming language.
+A Java program that analyzes the validity of an input files' lexical syntax for a hypothetical imperative programming language.
 
 ## Introduction
 What is a Recursive Descent Parser? A recursive descent parser has a subprogram for each nonterminal in its grammar. Many of these subprograms are recursive - hence the name - and produces a parse tree in top-down nature.
@@ -60,7 +60,7 @@ Where:
     * `<` --> Less than
         * In this grammar, there are only two logic expressions `>` and `<`.
 * Identifiers:
-    * A string value that begins with a letter followed by 0 or more letters and/or digits
+    * A string value that begins with a letter followed by 0 or more letters and/or digits   
 
 The nonterminal symbols include:
 * `<program>`
@@ -74,7 +74,7 @@ The nonterminal symbols include:
 * `<logic_expression>`
 * `<term>`
 * `<factor>`
-* `<expr>`
+* `<expr>`   
 
 The program reads in an input test `.txt` file and determines whether or not the file contains syntax errors.
 
@@ -92,18 +92,18 @@ The implementation of the program follows the two steps below:
 
 ## Test Cases
 The following test case files have been included:
-* `BeginMissing.txt` --> The syntax error in this test file is on line 2 where the keyword `begin` should be.
-![BeginMissing]((https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/parser-begin-missing.png)
-* `ExtraSemicolon.txt` --> The syntax error in this test file is on line 7 where there should not be a semicolon.
-![ExtraSemicolon]((https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/parser-extra-semicolon.png)
-* `IfMisspelled.txt` --> The syntax error in this test file is on the beginning of line 6, where the keyword `if` is misspelled.
-![IfMisspelled]((https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/parser-if-misspelled.png)
-* `MissingThen.txt` --> The syntax error in this test file is at the end of line 4, there should be a `then` keyword.
-![MissingThen]((https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/parser-missing-then.png)
-* `NoErrors.txt` --> There are no syntax errors in this test file. 
-![NoErrors]((https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/parser-no-errors.png)
-* `SemicolonMissing.txt` --> The syntax error in this test file is a missing semicolon at the end of line 4.
-![SemicolonMissing]((https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/parser-semicolon-missing.png)
+* `BeginMissing.txt` --> The syntax error in this test file is on line 2 where the keyword `begin` should be.   
+![BeginMissing](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/parser-begin-missing.png)
+* `ExtraSemicolon.txt` --> The syntax error in this test file is on line 7 where there should not be a semicolon.   
+![ExtraSemicolon](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/parser-extra-semicolon.png)
+* `IfMisspelled.txt` --> The syntax error in this test file is on the beginning of line 6, where the keyword `if` is misspelled.   
+![IfMisspelled](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/parser-if-misspelled.png)
+* `MissingThen.txt` --> The syntax error in this test file is at the end of line 4, there should be a `then` keyword.   
+![MissingThen](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/parser-missing-then.png)
+* `NoErrors.txt` --> There are no syntax errors in this test file.    
+![NoErrors](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/parser-no-errors.png)
+* `SemicolonMissing.txt` --> The syntax error in this test file is a missing semicolon at the end of line 4.   
+![SemicolonMissing](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/parser-semicolon-missing.png)   
 
 The only file that runs correctly is the `NoErrors.txt` file.
 
