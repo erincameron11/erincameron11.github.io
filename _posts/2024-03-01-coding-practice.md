@@ -7,7 +7,7 @@ tags:
   - Jupyter
 ---
 
-*Ongoing project* -- Last updated April 6, 2024 -- Various programs created to practice coding in the Python language.
+*Ongoing project* -- Last updated April 24, 2024 -- Various programs created to practice coding in the Python language.
 
 ## Introduction
 Used Python to solve four categories of problems:
@@ -41,12 +41,15 @@ These applications were built with the following technology:
 * `OddEven.ipynb` - completed Feb 24 - code [here](https://github.com/erincameron11/python-practice/blob/main/simple_programs/OddEven.ipynb)
 * `Palindrome.ipynb` - completed Feb 15 - code [here](https://github.com/erincameron11/python-practice/blob/main/simple_programs/Palindrome.ipynb)
 * `PositiveNegative.ipynb` - completed Feb 15 - code [here](https://github.com/erincameron11/python-practice/blob/main/simple_programs/PositiveNegative.ipynb)
+* `PowerOf2.ipynb` - completed April 23 - code [here](https://github.com/erincameron11/python-practice/blob/main/simple_programs/PowerOf2.ipynb)
 * `Prime.ipynb` - completed Feb 15 - code [here](https://github.com/erincameron11/python-practice/blob/main/simple_programs/Prime.ipynb)
 * `Pyramid.ipynb` - completed Feb 24 - code [here](https://github.com/erincameron11/python-practice/blob/main/simple_programs/Pyramid.ipynb)
 * `RemoveDuplicates.ipynb` - completed Feb 6 - code [here](https://github.com/erincameron11/python-practice/blob/main/simple_programs/RemoveDuplicates.ipynb)
+* `RomanToInteger.ipynb` - completed April 24 - code [here](https://github.com/erincameron11/python-practice/blob/main/simple_programs/RomanToInteger.ipynb)
 * `SecondLargestNumber.ipynb` - completed Feb 15 - code [here](https://github.com/erincameron11/python-practice/blob/main/simple_programs/SecondLargestNumber.ipynb)
 * `Stars.ipynb` - completed Feb 24 - code [here](https://github.com/erincameron11/python-practice/blob/main/simple_programs/Stars.ipynb)
 * `StringReversal.ipynb` - completed Feb 6 - code [here](https://github.com/erincameron11/python-practice/blob/main/simple_programs/StringReversal.ipynb)
+* `TwoSums.ipynb` - completed April 23 - code [here](https://github.com/erincameron11/python-practice/blob/main/simple_programs/TwoSums.ipynb)   
 
 ### Sorting Algorithms
 * `BubbleSort.ipynb` - pending
