@@ -102,8 +102,8 @@ The following test case files have been included:
 ![MissingThen](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/parser-missing-then.png)
 * `NoErrors.txt` --> There are no syntax errors in this test file.    
 ![NoErrors](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/parser-no-errors.png)
-* `SemicolonMissing.txt` --> The syntax error in this test file is a missing semicolon at the end of line 4.   
-![SemicolonMissing](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/parser-semicolon-missing.png)   
+* `SemicolonMissing.txt` --> The syntax error in this test file is a missing semicolon at the end of line
+![SemicolonMissing](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/parser-semicolon-missing.png)   g
 
 The only file that runs correctly is the `NoErrors.txt` file.
 
