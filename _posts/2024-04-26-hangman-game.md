@@ -29,44 +29,44 @@ _Rules of the Game:_
 ## Gameplay Sequence
 Below we will play a mock-game. First, we see the Hangman start output:
 <img src="https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/hangman-start.png" style="box-shadow: 10px 10px 5px -4px rgba(0,0,0,0.75);" />
-<!-- ![HangmanStart](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/hangman-start.png)    -->
 
 
 Then, we guess 3 letters that are incorrect.   
 Strike 1:   
-![HangmanStrike1](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/hangman-strike1.png)   
+<img src="https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/hangman-strike1.png" style="box-shadow: 10px 10px 5px -4px rgba(0,0,0,0.75);" />   
 
-Strike 2:   
-![HangmanStrike2](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/hangman-strike2.png)   
+Strike 2:     
+<img src="https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/hangman-strike2.png" style="box-shadow: 10px 10px 5px -4px rgba(0,0,0,0.75);" />   
 
 Strike 3:   
-![HangmanStrike3](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/hangman-strike3.png)   
+<img src="https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/hangman-strike3.png" style="box-shadow: 10px 10px 5px -4px rgba(0,0,0,0.75);" />   
+ 
 
 
 But now, we guess correctly!   
-Guessing `'A'`:   
-![HangmanCorrect1](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/hangman-correct1.png)   
+Guessing `'A'`:    
+<img src="https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/hangman-correct1.png" style="box-shadow: 10px 10px 5px -4px rgba(0,0,0,0.75);" />   
 
-Guessing `'M'`:   
-![HangmanCorrect2](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/hangman-correct2.png)   
+Guessing `'M'`:    
+<img src="https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/hangman-correct2.png" style="box-shadow: 10px 10px 5px -4px rgba(0,0,0,0.75);" />   
 
 
 But unfortunately, we guess 4 more times, and strike out:   
-Guessing `'N'`:   
-![HangmanStrike4](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/hangman-strike4.png)   
+Guessing `'N'`:     
+<img src="https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/hangman-strike4.png" style="box-shadow: 10px 10px 5px -4px rgba(0,0,0,0.75);" />   
 
-Guessing `'W'`:   
-![HangmanStrike5](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/hangman-strike5.png)   
+Guessing `'W'`:     
+<img src="https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/hangman-strike5.png" style="box-shadow: 10px 10px 5px -4px rgba(0,0,0,0.75);" />   
 
-Guessing `'F'`:   
-![HangmanStrike6](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/hangman-strike6.png)   
+Guessing `'F'`:    
+<img src="https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/hangman-strike6.png" style="box-shadow: 10px 10px 5px -4px rgba(0,0,0,0.75);" />   
 
-Guessing `'Y'`:   
-![HangmanStrike7](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/hangman-strike7.png)   
+Guessing `'Y'`:     
+<img src="https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/hangman-strike7.png" style="box-shadow: 10px 10px 5px -4px rgba(0,0,0,0.75);" />   
 
 
-But... In another game, we won! Take a look at the winning sequence:   
-![HangmanWin](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/hangman-win.png)   
+But... In another game, we won! Take a look at the winning sequence:     
+<img src="https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/hangman-win.png" style="box-shadow: 10px 10px 5px -4px rgba(0,0,0,0.75);" />   
 
 
 
