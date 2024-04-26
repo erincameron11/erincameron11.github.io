@@ -11,7 +11,7 @@ tags:
 A Java program for a user to play a simplistic game of Hangman in the IDE console.
 
 ## Introduction
-The aim of this project is to use Java to design a console-based Hangman Game. 
+The aim of this project is to use Java to design a console-based Hangman Game.    
 
 _Rules of the Game:_
 * Objective: Guess the secret word before the stick figure is fully drawn.
@@ -23,7 +23,50 @@ _Rules of the Game:_
         * If the user guesses correctly, `strikes` remains the same, the stick figure does not further progress, and the letter appears on the word display area (eg; guessing 'A': `_ _ _ A _`)
         * If the user guesses incorrectly, a body part is added to the stick person, and `strikes` increases by 1. The word display area does not change.
     * If the user reaches 7 strikes, the game ends - LOSER
-    * If the user guesses the entire word, the game ends - WINNER
+    * If the user guesses the entire word, the game ends - WINNER    
+
+
+## Gameplay Sequence
+Below we will play a mock-game. First, we see the Hangman start output:
+![HangmanStart](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/hangman-start.png)   
+
+
+Then, we guess 3 letters that are incorrect.   
+Strike 1:   
+![HangmanStrike1](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/hangman-strike1.png)   
+
+Strike 2:   
+![HangmanStrike2](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/hangman-strike2.png)   
+
+Strike 3:   
+![HangmanStrike3](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/hangman-strike3.png)   
+
+
+But now, we guess correctly!   
+Guessing `'A'`:   
+![HangmanCorrect1](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/hangman-correct1.png)   
+
+Guessing `'M'`:   
+![HangmanCorrect2](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/hangman-correct2.png)   
+
+
+But unfortunately, we guess 4 more times, and strike out:   
+Guessing `'N'`:   
+![HangmanStrike4](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/hangman-strike4.png)   
+
+Guessing `'W'`:   
+![HangmanStrike5](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/hangman-strike5.png)   
+
+Guessing `'F'`:   
+![HangmanStrike6](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/hangman-strike6.png)   
+
+Guessing `'Y'`:   
+![HangmanStrike7](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/hangman-strike7.png)   
+
+
+But... In another game, we won! Take a look at the winning sequence:   
+![HangmanWin](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/hangman-win.png)   
+
 
 
 ## Tools & Techniques
