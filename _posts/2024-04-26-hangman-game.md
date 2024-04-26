@@ -20,7 +20,7 @@ _Rules of the Game:_
     * The stick figure starts without any body parts drawn
 * Gameplay:
     * Each turn, the user gets to guess 1 letter. 
-        * If the user guesses correctly, `strikes` remains the same, the stick figure does not further progress, and the letter appears on the word display area (eg; guessing 'A': `_ _ _ A _`)
+        * If the user guesses correctly, `strikes` remains the same, the stick figure does not further progress, and the letter appears on the word display area (eg; guessing `'A'`: `_ _ _ A _`)
         * If the user guesses incorrectly, a body part is added to the stick person, and `strikes` increases by 1. The word display area does not change.
     * If the user reaches 7 strikes, the game ends - LOSER
     * If the user guesses the entire word, the game ends - WINNER    
@@ -28,7 +28,9 @@ _Rules of the Game:_
 
 ## Gameplay Sequence
 Below we will play a mock-game. First, we see the Hangman start output:
-![HangmanStart](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/hangman-start.png)   
+<kbd>
+![HangmanStart](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/hangman-start.png)  
+</kbd> 
 
 
 Then, we guess 3 letters that are incorrect.   
@@ -81,7 +83,7 @@ The `setHangman(int strikes)` method sets the correct output of the hangman disp
 
 The `setWordSpaces(char guess)` method controls the actions after a user places a guess. Inside this method, the `wordChars` array is updated to `!` for any correctly guessed values, the `strikes` are increased if the user does not guess correctly, and if all values of the `wordChars` array are exclamation points, the `win` flag is set to `true` to signify that the user has won. The `prompt` message is updated and the `setHangman(int strikes)` is called to update the hangman output.
 
-The `displayWord()` method displays the word prompt area to the user in the console. Inside this method, the `wordChars` exclamation mark values are used to determine what letters to output in the word display area. For example, if `wordChars` is `['J', '!', 'V', '!']`, and the `answer` array is `['J', 'A', 'V', 'A']`, this method would know to print the `A`'s in the word prompt area.
+The `displayWord()` method displays the word prompt area to the user in the console. Inside this method, the `wordChars` exclamation mark values are used to determine what letters to output in the word display area. For example, if `wordChars` is `['J', '!', 'V', '!']`, and the `answer` array is `['J', 'A', 'V', 'A']`, this method would know to print the `A`'s in the word prompt area and ` _ ` for the rest of the un-guessed letters.
 
 
 Java Classes utilized:
