@@ -28,9 +28,8 @@ _Rules of the Game:_
 
 ## Gameplay Sequence
 Below we will play a mock-game. First, we see the Hangman start output:
-<kbd>
-![HangmanStart](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/hangman-start.png)  
-</kbd> 
+<img src="https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/hangman-start.png" style="box-shadow: 10px 10px 5px -4px rgba(0,0,0,0.75);" />
+<!-- ![HangmanStart](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/hangman-start.png)    -->
 
 
 Then, we guess 3 letters that are incorrect.   
