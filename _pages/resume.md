@@ -11,13 +11,13 @@ redirect_from:
 
 ---
 
-<a href="https://drive.google.com/file/d/1I73GHfUUJuWnqio5VHz1TXjxpEhFwKD0/view?usp=sharing" target="_blank" style="float:right;">Resume PDF</a>
+<a href="https://drive.google.com/file/d/1ovoiBuNnA9Ukvbk-HHgiyhV2bp-pxZPD/view?usp=sharing" target="_blank" style="float:right;">Resume PDF</a>
 
 
 Education
 ======
 
-> ### Honours B.COSC of Computer Science, Algoma University, 2024
+> ### Honours B.COSC of Computer Science, Algoma University, December 2023
 > * Courses: Data Structures, Assembly Language Database Programming, Computer Organization,Software Engineering, Techniques of Systems Analysis, OOP, AI, Operating Systems, Analysis of Algorithms, Distributed Systems, Computer Networks, HCI, Data Management 
 > * GPA: 4.0  
 <br>
@@ -44,7 +44,7 @@ Education
 Work Experience
 ======
 
-> ### 2024: Teaching Assistant, Algoma University
+> ### 2024-Present: Teaching Assistant, Algoma University
 > * Maintained, observed and evaluated each student's progress through assessments
 > * Effectively communicated and coordinated with the instructor to discuss any changes to the marking scheme, or report any suspected academic integrity issues 
 <br>
