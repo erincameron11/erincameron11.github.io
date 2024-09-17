@@ -38,6 +38,7 @@ The implementation of the program follows the two steps below:
 
 ## What is RDP? Why I chose it
 A Recursive Descent Parser (RDP) is a recursive program following a grammar that checks and validates syntax structure of a piece of code. RDPs are top-down parsers, where each recursive method implements one of the nonterminals in the grammar.   
+
 **Key objectives of RDPs**:
 * Syntax Analysis: Ensures the input code follows the grammatical rules of the programming language
 * Generates Abstract Syntax Trees: Constructs a tree representation of the source code that captures its syntactic structure
@@ -47,9 +48,9 @@ Recursive descent parsers (RDPs) are not only valuable for syntax analysis but a
 
 
 ## What is Recursion?
-Direct recursion is the process of breaking problems down into smaller, identical problems until they become trivial to solve. There are two main sections to recursive functions in computer science: The Base Case, and The Recursive Case.
-1) Base Case: a section of code that defines the smallest problem possible, provides a solution to this problem, and does not use recursion in the answer
-2) Recursive Case: reduces each step in the recursive call until the Base Case is reached.
+Direct recursion is the process of breaking problems down into smaller, identical problems until they become trivial to solve. There are two main sections to recursive functions in computer science: The Base Case, and The Recursive Case.   
+1) Base Case: a section of code that defines the smallest problem possible, provides a solution to this problem, and does not use recursion in the answer   
+2) Recursive Case: reduces each step in the recursive call until the Base Case is reached.   
 
 **How is it used in this project?**
 * My parser uses recursive procedures to process input code
@@ -88,7 +89,7 @@ The grammar for this RDP can be seen below:
 ## Parse Trees
 Using grammars we can construct parse trees to show the execution of syntax structure for a specific program.   
 
-`Parse Tree without errors` --> In the image below, the parse tree on the right shows the hierarchical structure of the syntax on the left. Terminal nodes in the tree can be read from left to right program → begin → test → = → 3 → end.
+`Parse Tree without errors` --> In the image below, the parse tree on the right shows the hierarchical structure of the syntax on the left. Terminal nodes in the tree can be read from left to right: `program → begin → test → = → 3 → end`.
 ![Parse Tree without errors](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/parser2-parse-tree-without-errors.png)   
 
 
