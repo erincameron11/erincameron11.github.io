@@ -7,7 +7,7 @@ main:
     url: /resume/
   
   - title: "Projects"
-    url: /year-archive/
+    url: /projects/
 
   # - title: "Portfolio"
   #   url: /portfolio/
