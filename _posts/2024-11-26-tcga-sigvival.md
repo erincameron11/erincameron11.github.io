@@ -17,7 +17,7 @@ The `TCGA SIGvival` tool is a Python-based web application designed to make canc
 
 Visit the `TCGA SIGvival` application to explore it yourself at [https://tcga-sigvival.streamlit.app](https://tcga-sigvival.streamlit.app).   
 
-<video style="display: block;margin: 0 auto; box-shadow: 5px 6px 12px 3px rgba(0,0,0,0.5);" autoplay loop muted>
+<video width="580" height="330" style="display: block;margin: 0 auto; box-shadow: 5px 6px 12px 3px rgba(0,0,0,0.5);" autoplay loop muted>
   <source src="https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/tcga-sigvival-video.mov" type="video/mp4">
 </video>
 
