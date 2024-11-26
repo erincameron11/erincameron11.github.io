@@ -15,10 +15,9 @@ An interactive TCGA survival analysis application, using ssGSEA to calculate gen
 ## Introduction
 The `TCGA SIGvival` tool is a Python-based web application designed to make cancer data exploration accessible and interactive. Built with Streamlit Community Cloud, the app allows users to perform survival analysis using datasets from The Cancer Genome Atlas (TCGA). By entering specific gene names and cancer types, users can calculate ssGSEA scores and visualize the impact of different genetic factors on patient survival through Kaplan-Meier plots. This streamlined approach enables researchers and data enthusiasts alike to gain insights into cancer outcomes without the need for extensive coding or data preprocessing.
 
-Visit the `TCGA SIGvival` application to explore it yourself at https://tcga-sigvival.streamlit.app.   
+Visit the `TCGA SIGvival` application to explore it yourself at [https://tcga-sigvival.streamlit.app](https://tcga-sigvival.streamlit.app).   
 
-
-<video width="590" height="660" style="display: block;margin: 0 auto;" autoplay loop muted>
+<video style="display: block;margin: 0 auto; box-shadow: 5px 6px 12px 3px rgba(0,0,0,0.5);" autoplay loop muted>
   <source src="https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/tcga-sigvival-video.mov" type="video/mp4">
 </video>
 
@@ -55,19 +54,16 @@ To use the TCGA Survival Analysis Tool, follow these steps on the app's interfac
 2. **Select Gene Names**: Choose the specific genes you want to include in the analysis. These can be selected from the list of available genes based on the signature.
 3. **Select Cancer Types**: Pick one or more cancer types from the available options.
 4. **Select Cut-Point**: Choose the cut-point for the survival analysis. This value will be used to categorize patients into high or low expression groups for the Kaplan-Meier plot.   
-
-![TCGA SIGvival - Form Complete](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/tcga-sigvival-form-complete.png)   
-
 5. **Click "Create KM Plot"**: Once all the form fields are filled out, press the button to generate the Kaplan-Meier plot, which visualizes the survival curves based on the selected gene signature and cancer types.   
 
-Output:   
-![TCGA SIGvival - ssGSEA Calculation](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/tcga-sigvival-ssgsea-calculation.png) 
+Form Complete:   
+<img src="https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/tcga-sigvival-form-complete.png" style="box-shadow: 5px 6px 12px 3px rgba(0,0,0,0.5);" />   
 
+ssGSEA Calculation:   
+<img src="https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/tcga-sigvival-ssgsea-calculation.png" style="box-shadow: 5px 6px 12px 3px rgba(0,0,0,0.5);" />   
 
-![TCGA SIGvival - Output1](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/tcga-sigvival-output1.png)   
-
-
-![TCGA SIGvival - Output2](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/tcga-sigvival-output2.png) 
+Output:
+<img src="https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/tcga-sigvival-output.png" style="box-shadow: 5px 6px 12px 3px rgba(0,0,0,0.5);" />   
 
 These steps provide a simple yet powerful way to perform survival analysis using TCGA data, making the tool accessible to both novice users and experienced researchers.
 
