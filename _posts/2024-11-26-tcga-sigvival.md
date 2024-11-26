@@ -13,7 +13,7 @@ An interactive TCGA survival analysis application, using ssGSEA to calculate gen
 
 
 ## Introduction
-The `TCGA SIGvival` tool is a Python-based web application designed to make cancer data exploration accessible and interactive. Built with Streamlit Community Cloud, the app allows users to perform survival analysis using datasets from The Cancer Genome Atlas (TCGA). By entering specific gene names and cancer types, users can calculate ssGSEA scores and visualize the impact of different genetic factors on patient survival through Kaplan-Meier plots. This streamlined approach enables researchers and data enthusiasts alike to gain insights into cancer outcomes without the need for extensive coding or data preprocessing.
+The `TCGA SIGvival` tool is a Python-based web application designed to make cancer data exploration accessible and interactive. Built with Streamlit to enhance the user experience, and deployed on Streamlit Community Cloud, the app allows users to perform survival analysis using datasets from The Cancer Genome Atlas (TCGA). By entering specific gene names and cancer types, users can calculate ssGSEA scores and visualize the impact of different genetic factors on patient survival through Kaplan-Meier plots. This streamlined approach enables researchers and data enthusiasts alike to gain insights into cancer outcomes without the need for extensive coding or data preprocessing.
 
 Visit the `TCGA SIGvival` application to explore it yourself at [https://tcga-sigvival.streamlit.app](https://tcga-sigvival.streamlit.app).   
 
