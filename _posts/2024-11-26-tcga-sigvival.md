@@ -22,7 +22,7 @@ Visit the `TCGA SIGvival` application to explore it yourself at [https://tcga-si
 </video>
 
 
-## Tools & Techniques
+## Technology
 * Python
 * Jupyter Notebook
 * Streamlit
