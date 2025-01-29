@@ -1,5 +1,5 @@
 ---
-title: 'Toronto Ambulance, where do you need us?: A deep dive'
+title: 'V2: Toronto Ambulance, where do you need us?'
 date: 2025-01-29
 permalink: /posts/2025/01/tps-dispatch/
 tags:
@@ -11,7 +11,7 @@ tags:
 ---
 
 A comprehensive data visualization project analyzing Toronto Paramedic Services (TPS) dispatches in 2010, with insights into response patterns relative to the city’s population distribution.   
-Paramedic Incident data obtained from [The City of Toronto's Open Dataset site](https://open.toronto.ca/dataset/paramedic-services-incident-data/ "Toronto Open Data")
+Paramedic Incident data obtained from the City of Toronto's [Open Data](https://open.toronto.ca/dataset/paramedic-services-incident-data/ "Toronto Open Data") site.
 
 ### Introduction
 Emergency Medical Services (EMS) are a crucial part of urban infrastructure, ensuring that critical care reaches those in need as fast as possible. In this analysis, I explore Toronto Paramedic Services (TPS) dispatch data to understand where ambulances are most frequently deployed, and whether patterns emerge based on location and time.
@@ -37,7 +37,6 @@ Statistics:
 * The highest dispatch volume month was `July` with `19399` dispatches total.
 * The peak hour for dispatch volume was `12:00 hours`.
 * Dispatch Volume by Incident Type:
-
 ```
     Incident_Type
     Airport Standby               34
@@ -62,10 +61,10 @@ Statistics:
 ### Key Insights & Investigational Findings
 This analysis uncovers several important insights into Toronto’s emergency medical service demands:
 * **High-Demand Areas**: Certain FSAs consistently demonstrate high dispatch volumes, indicating "hotspots" for EMS demand. These areas should be prioritized for resource allocation, such as increasing ambulance availability or deploying community paramedicine initiatives to help reduce call volume.
-* **Peak Hours of Demand**: Dispatch frequency increases during specific times of the day, notably around 12:00 PM, likely aligning with work and commute hours. This suggests a need for EMS to be particularly responsive during mid-day hours when demand is highest.
-* **Seasonal Trends**: Higher call volumes in the summer months, particularly July, could be indicative of environmental factors such as warm weather, increased outdoor activity, or tourism-related incidents. Understanding these seasonal patterns can help plan for more efficient seasonal staffing.
-* **Priority Levels**: The dataset highlights that the majority of EMS calls are classified under the "Delta" Priority, followed by "Bravo" and "Alpha". This information could inform the type of training or resources required by paramedics for in-field assessments.
-* **Time Between Dispatches**: The average dispatch interval of 2.57 minutes suggests relatively high call volumes. To keep up with this demand, there is a need for more paramedics, dispatchers, and resources to ensure timely response times and avoid system strain.
+* **Peak Hours of Demand**: Dispatch frequency increases during specific times of the day, notably around `12:00 PM`, likely aligning with work and commute hours. This suggests a need for EMS to be particularly responsive during mid-day hours when demand is highest.
+* **Seasonal Trends**: Higher call volumes in the summer months, particularly `July`, could be indicative of environmental factors such as warm weather, increased outdoor activity, or tourism-related incidents. Understanding these seasonal patterns can help plan for more efficient seasonal staffing.
+* **Priority Levels**: The dataset highlights that the majority of EMS calls are classified under the `Delta` Priority, followed by `Bravo` and `Alpha`. This information could inform the type of training or resources required by paramedics for in-field assessments.
+* **Time Between Dispatches**: The average dispatch interval of `2.57 minutes` suggests relatively high call volumes. To keep up with this demand, there is a need for more paramedics, dispatchers, and resources to ensure timely response times and avoid system strain.
 
 ### Conclusion
 This analysis provides a deeper understanding of Toronto’s EMS landscape, offering actionable insights for improving paramedic services and optimizing resource allocation. The patterns identified in terms of location, time, and incident types can help to inform strategies for better response times, more effective deployment, and improved community health outcomes.
