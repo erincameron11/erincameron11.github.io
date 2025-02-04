@@ -21,13 +21,9 @@ In order to reduce local computational load and limit data size for GitHub stora
  
 For an immersive look at Paramedic Incident data from 2010-2016 inclusive, visit the [Tableau dashboard](https://public.tableau.com/app/profile/erin.cameron/viz/TPSIncidentDataReport/ParamedicIncidents) to explore it yourself.   
 
-<video width="700" height="450" style="display: block;margin: 0 auto; box-shadow: 5px 6px 12px 3px rgba(0,0,0,0.5);" autoplay loop muted>
+<video width="750" height="500" style="display: block;margin: 0 auto; box-shadow: 5px 6px 12px 3px rgba(0,0,0,0.5);" autoplay loop muted>
   <source src="https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/tps-incidents-gif.mp4" type="video/mp4">
-</video>
-
-<p>For the best experience, view the full dashboard: 
-<a href="https://public.tableau.com/app/profile/erin.cameron/viz/TPSIncidentDataReport/ParamedicIncidents" target="_blank">Paramedic Incident Tableau</a></p>
-
+</video>   
 
 
 ### Data Exploration
@@ -40,16 +36,30 @@ To begin, the dispatch incident data was loaded and subsetted for dates within t
 Additionally, an exploratory analysis was conducted to examine the structure of the datasets, including column attributes, dataframe shapes, and data types. This foundational work set the stage for in-depth visualizations and insights.   
 
 ### Data Visualization & Summary Statistics:
-Dispatch Volume Choropleth Maps:   
-Using `Folium`, I created choropleth maps to visualize the density of ambulance dispatches across Toronto’s FSAs. These maps highlight areas with consistently high emergency call volumes.   
+Using `Folium`, I created choropleth maps to visualize the density of ambulance dispatches across Toronto’s Forward Sortation Areas (FSA - a geographical area that is defined by the first three characters of a postal code). These maps highlight areas with consistently high emergency call volumes.  
 
-Statistics:   
-* The total number of dispatches in 2010 was `204805`.
-* The highest dispatch volume day of the year was `Monday, July 5th, 2010`, with `727` dispatches.
+Dispatches per Postal Code:   
+![TPS Dispatch per Postal Code](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/tps-incidents-map-dispatch-per-postal.png)   
+
+Toronto Population:   
+![Toronto Population](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/tps-incidents-map-population.png)  
+
+Dispatches per Capita:   
+![TPS Dispatch per Capita](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/tps-incidents-map-dispatch-per-capita.png)    
+
+Motor Vehicle Collisions per Capita:   
+![TPS MVC Incidents per Capita](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/tps-incidents-map-mvc-per-capita.png)   
+
+
+**Statistics - 2010**:   
+* The total number of dispatches was `204805`.
+* The highest dispatch volume day of the year was `Monday, July 5th, 2010`, with `727` dispatches.   
 * The highest dispatch volume by FSA was `4481` dispatches in the FSA `M6K`.
 * The average time between dispatches was `153.98 seconds`, or `2.57 minutes`.
 * The highest dispatch volume month was `July` with `19399` dispatches total.
-* The peak hour for dispatch volume was `12:00 hours`.
+![TPS Monthly Dispatch Distribution](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/tps-incidents-plot-monthly-distribution.png)   
+* The peak hour for dispatch volume was `12:00 hours`.   
+![TPS Hourly Dispatch Distribution](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/tps-incidents-plot-hourly-distribution.png)  
 * Dispatch Volume by Incident Type:
 ```
     Incident_Type
@@ -59,7 +69,8 @@ Statistics:
     Medical                   186600
     Motor Vehicle Accident     13334
 ```
-* Number of dispatches by Priority:
+* The most common dispatches by Priority was `Delta` with `70751` incidents:
+![TPS Dispatch by Priority](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/tps-incidents-plot-dispatch-by-priority.png)   
 ```
     Priority_Name    Priority_Number
     Delta            1                 70751
