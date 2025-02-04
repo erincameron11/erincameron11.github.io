@@ -17,46 +17,14 @@ Emergency Medical Services (EMS) are a crucial part of urban infrastructure, ens
 
 Using Python and geospatial visualization techniques, I dive into the data to uncover trends that could help optimize emergency response strategies. The dataset consists of ambulance dispatch records, each containing details such as general location, timestamp, and dispatch priority. The goal is to map these locations and examine patterns across different time periods.   
 
-In order to reduce local computational load and limit data size for GitHub storage, the data was subset to include only the year 2010. Visit the `GitHub` page to explore the code at [github.com/erincameron11](https://github.com/erincameron11/tps-dispatches/).   
+In order to reduce local computational load and limit data size for GitHub storage, the data was subset to include only the year 2010. Visit the [GitHub](https://github.com/erincameron11/tps-dispatches/) page to explore the code.   
  
-For an immersive look at Paramedic Incident data from 2010-2016 inclusive, visit the `Tableau` dashboard to explore it yourself at [public.tableau.com/app/profile/erin.cameron](https://public.tableau.com/app/profile/erin.cameron/viz/TPSIncidentDataReport/ParamedicIncidents).   
+For an immersive look at Paramedic Incident data from 2010-2016 inclusive, visit the [Tableau dashboard](https://public.tableau.com/app/profile/erin.cameron/viz/TPSIncidentDataReport/ParamedicIncidents) to explore it yourself.   
 
-<!-- TABLEAU EMBEDDING -->
-<div class='tableauPlaceholder' id='viz1738677160462' style='position: relative; width: 125%;'>
-  <noscript>
-    <a href='#'><img alt='ParamedicIncidents ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;3Y&#47;3YBDD5GJC&#47;1_rss.png' style='border: none' /></a>
-  </noscript>
-  <object class='tableauViz'  style='display:none;'>
-    <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
-    <param name='embed_code_version' value='3' />
-    <param name='path' value='shared&#47;3YBDD5GJC' />
-    <param name='toolbar' value='yes' />
-    <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;3Y&#47;3YBDD5GJC&#47;1.png' /> 
-    <param name='animate_transition' value='yes' />
-    <param name='display_static_image' value='yes' />
-    <param name='display_spinner' value='yes' />
-    <param name='display_overlay' value='yes' />
-    <param name='display_count' value='yes' />
-    <param name='language' value='en-US' />
-  </object>
-</div>
-<script type='text/javascript'>
-  var divElement = document.getElementById('viz1738677160462');
-  var vizElement = divElement.getElementsByTagName('object')[0];
-  if ( divElement.offsetWidth > 800 ) { 
-    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
-  } else if ( divElement.offsetWidth > 500 ) { 
-    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
-  } else { 
-    vizElement.style.width='100%';vizElement.style.height='2177px';
-  }
-  var scriptElement = document.createElement('script');
-  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-  vizElement.parentNode.insertBefore(scriptElement, vizElement);
-</script>
+<video width="700" height="450" style="display: block;margin: 0 auto; box-shadow: 5px 6px 12px 3px rgba(0,0,0,0.5);" autoplay loop muted>
+  <source src="https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/tps-incident-gif.mp4" type="video/mp4">
+</video>
 
-
-<!-- iFRAME TESTING -->
 <p>For the best experience, view the full dashboard: 
 <a href="https://public.tableau.com/app/profile/erin.cameron/viz/TPSIncidentDataReport/ParamedicIncidents" target="_blank">Paramedic Incident Tableau</a></p>
 
