@@ -22,7 +22,7 @@ In order to reduce local computational load and limit data size for GitHub stora
 For an immersive look at Paramedic Incident data from 2010-2016 inclusive, visit the [Tableau dashboard](https://public.tableau.com/app/profile/erin.cameron/viz/TPSIncidentDataReport/ParamedicIncidents) to explore it yourself.   
 
 <video width="700" height="450" style="display: block;margin: 0 auto; box-shadow: 5px 6px 12px 3px rgba(0,0,0,0.5);" autoplay loop muted>
-  <source src="https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/tps-incident-gif.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/tps-incidents-gif.mp4" type="video/mp4">
 </video>
 
 <p>For the best experience, view the full dashboard: 
