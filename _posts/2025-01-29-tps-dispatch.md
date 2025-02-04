@@ -58,9 +58,9 @@ Motor Vehicle Collisions per Capita:
 * The average time between dispatches was `153.98 seconds`, or `2.57 minutes`.
 * The highest dispatch volume month was `July` with `19399` dispatches total.
 ![TPS Monthly Dispatch Distribution](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/tps-incidents-plot-monthly-distribution.png)   
-* The peak hour for dispatch volume was `12:00 hours`.   
+* The highest hourly dispatch volume was `12:00PM`, with the lowest at `5:00AM`.   
 ![TPS Hourly Dispatch Distribution](https://raw.githubusercontent.com/erincameron11/erincameron11.github.io/master/images/tps-incidents-plot-hourly-distribution.png)  
-* Dispatch Volume by Incident Type:
+* Dispatch volume by Incident Type:
 ```
     Incident_Type
     Airport Standby               34
