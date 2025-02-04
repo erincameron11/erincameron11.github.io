@@ -112,7 +112,7 @@ Work Experience
 ---
 
 Awards, Certificates & Conferences 
-===
+======
 
 * Accredited Center of Excellence (ACE) Compliant Award, Toronto Paramedic Services. 2017 –2020.
 * Stork Award x3, Toronto Paramedic Services. Assisted in emergency childbirth. 2017–2020.
