@@ -120,6 +120,7 @@ Awards, Certificates & Conferences
 * Certificate, Microsoft Career Essentials in System Administration. 2023.
 * Conference Attendee, CAN-Canadian Celebration of Women in Computing (CWIC). 2023.
 <br>
+
 ---
 
 Career Skills
