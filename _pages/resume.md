@@ -17,6 +17,11 @@ redirect_from:
 Education
 ======
 
+> ### Masters of Health Informatics in Advanced Analytics, University of Waterloo, 2025-2026
+> * Courses: Quantitative Methods and Analysis, Information Technology for the Health Professional, Fundamental Research Methods in Health Informatics (Python Programming), Principles of Epidemiology, Data Structures and Standards, AI Application in Health, Machine Learning Techniques  
+> * GPA: 4.0  
+<br>
+
 > ### Honours B.COSC in Computer Science, Algoma University, 2021-2024
 > * Awards: Dean’s Honours List, graduated Summa Cum Laude.
 > * Courses: Data Structures, Assembly Language Database Programming, Computer Organization,Software Engineering, Techniques of Systems Analysis, OOP, AI, Operating Systems, Analysis of Algorithms, Distributed Systems, Computer Networks, HCI, Data Management 
