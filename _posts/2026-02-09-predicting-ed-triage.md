@@ -13,6 +13,9 @@ tags:
   - data visualization
 ---
 
+
+Developing machine learning models to predict Emergency Department mistriage and identify the hidden clinical factors that compromise patient safety.
+
 ### Overview
 * **Goal**: Developed a predictive model to identify hospital emergency department mistriage (discrepancies between initial triage and final diagnosis) to reduce patient mortality and system bottlenecks.
 * **Data**: Processed a clinical dataset of 1,216 records, performing rigorous cleaning of non-standard entries and handling a 14% class imbalance.
