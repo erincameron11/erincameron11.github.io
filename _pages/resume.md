@@ -11,7 +11,7 @@ redirect_from:
 
 ---
 
-<a href="https://drive.google.com/file/d/1ovoiBuNnA9Ukvbk-HHgiyhV2bp-pxZPD/view?usp=sharing" target="_blank" style="float:right;">Resume PDF</a>
+<a href="https://drive.google.com/file/d/1Pjqt_ocCT9rwmS7F2B8FRiXNAM6oLD_O/view?usp=sharing" target="_blank" style="float:right;">Resume PDF</a>
 
 
 Education
