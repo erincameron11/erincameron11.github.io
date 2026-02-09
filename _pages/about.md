@@ -9,12 +9,14 @@ redirect_from:
 ---
 
 
+I am a Master of Health Informatics and Advanced Analytics candidate with a foundation in Computer Science, and a sharp focus on how data can transform the healthcare landscape. My passion lies in creative thinking and problem-solving traits that drive me to bridge the gap between complex datasets and actionable health insights.
+
+I often find myself diving into data-driven questions like:
+* How can machine learning models accurately predict mistriage in Emergency Departments?
+* Does budget allocation correlate to call volume in Toronto Emergency Services?
+* What is the real-world impact of Generative AI on clinical workflows?
+* Can we use public health food inspection data to predict and prevent community outbreaks?
+
+This curiosity has led me to my current trajectory: pursuing a career as a **Health Data Analyst**.
+
 In my spare time you'll find me playing hockey or dodgeball, reading, creating pottery, cooking, travelling, or having an occasional beer with friends. 
-
-I am a Computer Science enthusiast, with an interest in Web Development, Data Analytics and Cyber Security. My passion lies in creative thinking and problem solving my way through daily life. I am a methodical, imaginative, self-starter and often catch myself thinking about questions like: 
-* Does budget size correlate to call volume in Toronto Emergency Services? 
-* What countries win the most Olympic medals, comparing Winter to Summer games, and what are some potential reasons for this? 
-* Does warm weather correlate to higher outbreak numbers of COVID-19? 
-* Can we accurately determine when El Niño weather patterns occurred in North America by examining the temperature trends in historical weather data? 
-
-This passion lead me to my current career tragectory, so I can apply my innate curiosity with data driven results to a wide variety of topics. 
