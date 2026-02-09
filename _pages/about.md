@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Master of Health Informatics and Advanced Analytics candidate with a foundation in Computer Science, and a sharp focus on how data can transform the healthcare landscape. My passion lies in creative thinking and problem-solving traits that drive me to bridge the gap between complex datasets and actionable health insights.
+I am a **Master of Health Informatics and Advanced Analytics** candidate with a foundation in **Computer Science**, and a sharp focus on how data can transform the healthcare landscape. My passion lies in creative thinking and problem-solving traits that drive me to bridge the gap between complex datasets and actionable health insights.
 
 I often find myself diving into data-driven questions like:
 * How can machine learning models accurately predict mistriage in Emergency Departments?
